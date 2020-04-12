@@ -1,11 +1,11 @@
 title: Incomplete toughts
 author:
-    name: 'GitHub User'
+    name: 'human - machine'
     email: your-email@domain.com
 description: "describe el contenido.\n"
 show_excerpts: false
 minima:
-    date_format: '%Y %b %-d '
+    date_format: '%Y %b' 
 social_links:
     twitter: jekyllrb
     github: jekyll
