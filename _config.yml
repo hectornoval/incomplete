@@ -1,11 +1,11 @@
-title: Incomplete toughts
+title: Incomplete thoughts
 author:
     name: 'human - machine'
     email: your-email@domain.com
 description: "describe el contenido.\n"
 show_excerpts: false
 minima:
-    date_format: '%Y %b' 
+    date_format: '%Y %b'
 social_links:
     twitter: jekyllrb
     github: jekyll
