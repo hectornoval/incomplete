@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
+title: "Hello world!"
+categories: sample
 author:
 - Bart Simpson
 - Nelson Mandela Muntz
