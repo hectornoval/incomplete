@@ -1,14 +1,14 @@
 title: Incomplete thoughts
 author:
-    name: 'human - machine'
-    email: your-email@domain.com
-description: "describe el contenido.\n"
+    #name: 'human - machine'
+    email: hello@hectornoval.com
+description: "human - machine.\n"
 show_excerpts: false
 minima:
     date_format: '%Y %b'
 social_links:
-    twitter: jekyllrb
-    github: jekyll
+    twitter: hectornoval
+    github: hectornoval
 theme: minima
 plugins:
     - jekyll-feed
