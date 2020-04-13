@@ -12,7 +12,7 @@ $code-background-color: #eeeeff !default;
 
 $link-base-color:       #000000 !default;//color de los links
 $link-visited-color:    darken($link-base-color, 15%) !default;
-$link-hover-color:      $text-color !default;
+$link-hover-color:      #000000 !default;//color de los links
 
 $border-color-01:       $brand-color-light !default;
 $border-color-02:       lighten($brand-color, 35%) !default;

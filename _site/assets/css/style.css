@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 /** Links */
 a { color: #000000; text-decoration: none; }
 a:visited { color: black; }
-a:hover { color: #111111; text-decoration: underline; }
+a:hover { color: #000000; text-decoration: underline; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
 
