@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-12T20:52:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Incomplete thoughts</title><subtitle>human - machine.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-13T20:41:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Incomplete thoughts</title><subtitle>human - machine.
 </subtitle><author><name>{&quot;email&quot;=&gt;&quot;hello@hectornoval.com&quot;}</name><email>hello@hectornoval.com</email></author><entry><title type="html">Duro de criticar</title><link href="http://localhost:4000/sample/2020/04/04/Duro-de-criticar.html" rel="alternate" type="text/html" title="Duro de criticar" /><published>2020-04-04T00:00:00+09:00</published><updated>2020-04-04T00:00:00+09:00</updated><id>http://localhost:4000/sample/2020/04/04/Duro%20de%20criticar</id><content type="html" xml:base="http://localhost:4000/sample/2020/04/04/Duro-de-criticar.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
 
 &lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
 
 &lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
 
+&lt;p&gt;http://github.com - automatic! &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
 
 &lt;h2 id=&quot;another-great-heading-h2&quot;&gt;Another great heading (h2)&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.pinimg.com/564x/7b/e8/46/7be8466954c8278b55061175193aa25b.jpg&quot; alt=&quot;Another image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1568733873715-f9d497a47ea0?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1950&amp;amp;q=80&quot; alt=&quot;Image horizontal&quot; /&gt;
+You can download the PDF &lt;a href=&quot;http://localhost:4000/assets/document.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;some-great-subheading-h3&quot;&gt;Some great subheading (h3)&lt;/h3&gt;
 

@@ -66,6 +66,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin-block-start: 32px; //adding a little bit of air to images
+  margin-block-end: 8px; //adding margin until Caption
 }
 
 
@@ -87,6 +89,7 @@ figcaption {
  * Lists
  */
 ul, ol {
+  margin-top: $spacing-unit/4;
   margin-left: $spacing-unit;
 }
 
@@ -139,9 +142,11 @@ a {
  */
 blockquote {
   color: $brand-color;
-  border-left: 4px solid $border-color-01;
+  border-left: 1px solid $border-color-01;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  margin-top:$spacing-unit / 2;
+  margin-bottom:$spacing-unit / 2;
+  @include relative-font-size(1);
   font-style: italic;
 
   > :last-child {
@@ -259,7 +264,7 @@ table {
   border: 1px solid $table-border-color;
   tr {
     &:nth-child(even) {
-      background-color: $table-zebra-color;
+      background-color: $table-zebra-color; //quito el color de fondo
     }
   }
   th, td {

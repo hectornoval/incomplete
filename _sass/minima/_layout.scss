@@ -245,8 +245,8 @@
 .post-title,
 .post-content h1 {
   @include relative-font-size(2);
-  letter-spacing: -1px;
-  line-height: 1.15;
+  letter-spacing: 0px;
+/*  line-height: 1.15;*/ /*Igual el alto de linea con la home*/
 
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2);
@@ -256,7 +256,18 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3 { margin-top: $spacing-unit * 2 }
+  a {
+    color: #ff00e6; //color de los links en el post
+  }
+
+  p{
+    margin-block-end: 8px;//Añado un poco de margen al final del parrafo
+  }
+
+  h1, h2, h3 {
+    margin-top: $spacing-unit /2 ;
+    margin-bottom: $spacing-unit/4;
+  }
   h4, h5, h6 { margin-top: $spacing-unit }
 
   h2 {
