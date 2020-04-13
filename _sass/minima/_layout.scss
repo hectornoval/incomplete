@@ -225,8 +225,9 @@
 .post-meta {
   //font-size: $small-font-size; //tamano de la tipo en los meta del post
   color: $brand-color;
-    @include relative-font-size(1.5);
+  @include relative-font-size(1.5);
 }
+
 
 .post-link {
   display: block;
@@ -274,12 +275,11 @@
     @include relative-font-size(2);
 
     @media screen and (min-width: $on-large) {
-      @include relative-font-size(2);
+      @include relative-font-size(1.25);//tipo en movil
     }
   }
-
   h3 {
-    @include relative-font-size(2); //original 1.375
+    @include relative-font-size(1.25); //tipo en el movil
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);

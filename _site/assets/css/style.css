@@ -103,15 +103,15 @@ blockquote > :last-child { margin-bottom: 0; }
 blockquote i, blockquote em { font-style: normal; }
 
 /** Code formatting */
-pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.9375em; border: 1px solid #666666; border-radius: 3px; background-color: #eeeeff; }
+pre, code { font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace; font-size: 0.9375em; border-radius: 3px; background-color: #feeeff; }
 
 code { padding: 1px 5px; }
 
-pre { padding: 8px 12px; overflow-x: auto; }
+pre { padding: 16px 8px; overflow-x: auto; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
-.highlight { border-radius: 3px; background: #eeeeff; }
-.highlighter-rouge .highlight { background: #eeeeff; }
+.highlight { margin-top: 22px; margin-bottom: 22px; background: #feeeff; }
+.highlighter-rouge .highlight { background: #feeeff; }
 
 /** Wrapper */
 .wrapper { max-width: calc(800px - (40px)); margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
@@ -208,8 +208,8 @@ table td { border: 1px solid #666666; }
 .post-content h1, .post-content h2, .post-content h3 { margin-top: 20px; margin-bottom: 10px; }
 .post-content h4, .post-content h5, .post-content h6 { margin-top: 40px; }
 .post-content h2 { font-size: 2rem; }
-@media screen and (min-width: 800px) { .post-content h2 { font-size: 2rem; } }
-.post-content h3 { font-size: 2rem; }
+@media screen and (min-width: 800px) { .post-content h2 { font-size: 1.25rem; } }
+.post-content h3 { font-size: 1.25rem; }
 @media screen and (min-width: 800px) { .post-content h3 { font-size: 2rem; } }
 .post-content h4 { font-size: 2rem; }
 .post-content h5 { font-size: 2rem; }

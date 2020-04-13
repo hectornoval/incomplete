@@ -167,7 +167,7 @@ pre,
 code {
   font-family: $code-font-family;
   font-size: 0.9375em;
-  border: 1px solid $border-color-01;
+  //border: 1px solid $border-color-01;
   border-radius: 3px;
   background-color: $code-background-color;
 }
@@ -177,7 +177,7 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
+  padding: 16px 8px;
   overflow-x: auto;
 
   > code {
@@ -188,7 +188,9 @@ pre {
 }
 
 .highlight {
-  border-radius: 3px;
+  //border-radius: 3px;
+  margin-top: 22px;
+  margin-bottom: 22px;
   background: $code-background-color;
   @extend %vertical-rhythm;
 
