@@ -212,7 +212,7 @@ table td { border: 1px solid #666666; }
 .post-content h4 { text-decoration: underline; }
 .post-content h5 { margin-top: 48px; }
 .post-content h6 { margin-top: 32px; }
-.post-content h2 { font-size: 2rem; }
+.post-content h2 { font-size: 1.25rem; }
 @media screen and (min-width: 800px) { .post-content h2 { font-size: 1.25rem; } }
 .post-content h3 { font-size: 1rem; font-weight: bold; }
 @media screen and (min-width: 800px) { .post-content h3 { font-size: 1rem; } }
