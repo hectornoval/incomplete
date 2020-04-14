@@ -192,6 +192,9 @@ table td { border: 1px solid #666666; }
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 32px; }
 
+.post-list h3 { font-size: 2rem; font-family: "Poppins", Helvetica, Arial, sans-serif; letter-spacing: 0px; /*  line-height: 1.15;*/ /*Igual el alto de linea con la home*/ }
+@media screen and (min-width: 800px) { .post-list h3 { font-size: 2rem; } }
+
 .post-meta { color: #000000; font-size: 1.5rem; }
 
 .post-link { display: block; font-size: 2rem; }

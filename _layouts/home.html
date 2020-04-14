@@ -35,7 +35,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
           <span class="post-meta">
-                {{ post.meta | escape }} ⏤ {{ post.date | date: date_format }}</span>
+              {{post.meta | escape }}   ⏤ {{ post.date | date: date_format }}</span>
       </li>
       {%- endfor -%}
     </ul>

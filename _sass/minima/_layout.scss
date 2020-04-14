@@ -213,6 +213,7 @@
   @include relative-font-size(2);
 }
 
+
 .post-list {
   margin-left: 0;
   list-style: none;
@@ -222,12 +223,22 @@
   }
 }
 
+.post-list h3{
+    @include relative-font-size(2);
+  font-family:  $title-font-family;
+    letter-spacing: 0px;
+  /*  line-height: 1.15;*/ /*Igual el alto de linea con la home*/
+
+    @media screen and (min-width: $on-large) {
+      @include relative-font-size(2);
+}
+}
+
 .post-meta {
   //font-size: $small-font-size; //tamano de la tipo en los meta del post
   color: $brand-color;
   @include relative-font-size(1.5);
 }
-
 
 .post-link {
   display: block;
