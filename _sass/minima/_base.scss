@@ -142,16 +142,19 @@ a {
  */
 blockquote {
   color: $brand-color;
+  font-family:  $title-font-family;
   border-left: 1px solid $border-color-01;
-  padding-left: $spacing-unit / 2;
-  margin-top:$spacing-unit / 2;
-  margin-bottom:$spacing-unit / 2;
-  @include relative-font-size(1);
-  font-style: italic;
+  padding-left: $spacing-unit ;
+  margin-top:$spacing-unit;
+  margin-bottom:$spacing-unit;
+  @include relative-font-size(1.5);
+//font-style: italic;
+
 
   > :last-child {
     margin-bottom: 0;
   }
+
 
   i, em {
     font-style: normal;

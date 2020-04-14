@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello world!"
+title: "processes and pleasures"
 categories: sample
 author:
-- Bart Simpson
-- Nelson Mandela Muntz
+- Your name here
+- yours too
 #meta: "Springfield"
 ---
 
