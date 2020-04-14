@@ -89,14 +89,17 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-top: $spacing-unit/4;
+  //margin-top: $spacing-unit/4; Remove margin in lists & Nested
+  margin-bottom: $spacing-unit;
   margin-left: $spacing-unit;
+
 }
 
 li {
   > ul,
   > ol {
     margin-bottom: 0;
+    margin-block-end: $spacing-unit/4; //Margen del ultimo elemento de la lista al siguiente
   }
 }
 

@@ -83,9 +83,9 @@ figure > img { display: block; }
 figcaption { font-size: 18px; }
 
 /** Lists */
-ul, ol { margin-top: 8px; margin-left: 32px; }
+ul, ol { margin-bottom: 32px; margin-left: 32px; }
 
-li > ul, li > ol { margin-bottom: 0; }
+li > ul, li > ol { margin-bottom: 0; margin-block-end: 8px; }
 
 /** Headings */
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
@@ -207,14 +207,15 @@ table td { border: 1px solid #666666; }
 .post-content p { margin-block-end: 16px; }
 .post-content h2 { margin-block-end: 24.6153846154px; }
 .post-content h4 { text-decoration: underline; }
-.post-content h5, .post-content h6 { margin-top: 32px; }
+.post-content h5 { margin-top: 48px; }
+.post-content h6 { margin-top: 32px; }
 .post-content h2 { font-size: 2rem; }
 @media screen and (min-width: 800px) { .post-content h2 { font-size: 1.25rem; } }
 .post-content h3 { font-size: 1rem; font-weight: bold; }
 @media screen and (min-width: 800px) { .post-content h3 { font-size: 1rem; } }
 .post-content h4 { font-size: 1rem; }
-.post-content h5 { font-size: 2rem; }
-.post-content h6 { font-size: 2rem; }
+.post-content h5 { font-size: 1rem; font-weight: bold; }
+.post-content h6 { font-size: 1rem; }
 
 .social-media-list, .pagination { display: table; margin: 0 auto; }
 .social-media-list li, .pagination li { float: left; margin: 5px 10px 5px 0; }

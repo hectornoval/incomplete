@@ -278,7 +278,10 @@ h2{
   h4{
     text-decoration: underline;
   }
-  h5, h6 { margin-top: $spacing-unit }
+  h5{
+    margin-top: $spacing-unit*1.5
+  }
+  h6 { margin-top: $spacing-unit }
 
   h2 {
     @include relative-font-size(2);
@@ -303,10 +306,12 @@ h2{
   }
 
   h5 {
-    @include relative-font-size(2);
+    @include relative-font-size(1); //tipo en el movil
+    font-weight: bold;
+
   }
   h6 {
-    @include relative-font-size(2);
+    @include relative-font-size(1);
   }
 }
 
