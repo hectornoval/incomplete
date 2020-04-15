@@ -30,11 +30,11 @@
 
 .site-nav {
   position: absolute;
-  top: 9px;
+  top: 32px;
   right: $spacing-unit / 2;
   background-color: $background-color;
-  border: 1px solid $border-color-01;
-  border-radius: 5px;
+  //border: 1px solid #ffffff:; //Remove border from mobile
+  //border-radius: 5px;
   text-align: right;
 
   .nav-trigger {
