@@ -138,7 +138,7 @@ table td { border: 1px solid #666666; }
 /** Site header */
 .site-header { border-top: 0px solid black; border-bottom: 0px solid #666666; min-height: 64px; line-height: 100.8px; position: relative; }
 
-.site-title { font-size: 1.5rem; font-weight: 600; letter-spacing: 0px; margin-bottom: 0; float: left; }
+.site-title { font-size: 1.2rem; font-weight: 600; letter-spacing: 0px; margin-bottom: 0; float: left; }
 @media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
 .site-title, .site-title:visited { color: black; }
 
@@ -159,9 +159,11 @@ table td { border: 1px solid #666666; }
   .site-nav .page-link:not(:last-child) { margin-right: 20px; } }
 
 /** Site footer */
-.site-footer { border-top: 1px solid #666666; padding: 32px 0; }
+.site-footer { border-top: 1px solid #666666; padding: 32px; }
 
-.footer-heading { font-size: 2rem; margin-bottom: 16px; }
+.site-footer ul, ol { margin-bottom: 0px !important; }
+
+.footer-heading { font-size: 2rem; margin-bottom: 0px !important; }
 
 .feed-subscribe .svg-icon { padding: 5px 5px 2px 0; }
 
@@ -169,7 +171,7 @@ table td { border: 1px solid #666666; }
 
 .footer-col-wrapper, .social-links { font-size: 1rem; color: #000000; }
 
-.footer-col { margin-bottom: 16px; }
+.footer-col { margin-bottom: Infinitypx; }
 
 .footer-col-1, .footer-col-2 { width: calc(50% - (32px / 2)); }
 

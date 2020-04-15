@@ -12,7 +12,7 @@
 }
 
 .site-title {
-  @include relative-font-size(1.5);//tamaño de la tipo en el titulo
+  @include relative-font-size(1.2);//tamaño de la tipo en el titulo
   font-weight: 600;
   letter-spacing: 0px;
   margin-bottom: 0;
@@ -123,12 +123,15 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit;
+}
+.site-footer ul,ol{
+margin-bottom: 0px!important;
 }
 
 .footer-heading {
   @include relative-font-size(2);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: 0px !important;;
 }
 
 .feed-subscribe .svg-icon {
@@ -148,7 +151,7 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit/0; //margen del footer al suelo
 }
 
 .footer-col-1,
