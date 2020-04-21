@@ -9,5 +9,5 @@ permalink: /log/
 
 I am not a designer.
 
-I use my skills to relate the units and structures that machines use to interact
+I use my skills to relate units and structures that machines use to interact
 with humans.
