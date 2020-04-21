@@ -3,6 +3,8 @@ layout: page
 title: log
 permalink: /log/
 ---
+
+
 I am not a designer.
 
 I use my skills to relate the units and structures that machines use to interact
