@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manie
+title: biblio
 permalink: /biblio/
 ---
 
