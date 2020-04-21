@@ -1,9 +1,13 @@
 ---
 layout: page
-title: biblio
+title: manifesto
 permalink: /biblio/
 ---
-@onlinebiblatex, title = Biblatex – Sophisticated Bibliographies in
-LaTeX, publisher = Dansk Standard, year = 2018, author = Philipp Lehman
-AND Joseph Wright AND Audrey Boruvka AND Philip Kime, url =
-https://www.ctan.org/pkg/biblatex
+
+I am not a designer.
+
+I use my skills to relate the units and structures that machines use to interact
+with humans.
+
+<!--Setting the foundations from below or defining the rules of governance from above
+I put together elements that are at different scale to one one another.

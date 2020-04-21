@@ -13,5 +13,5 @@ plugins:
     - jekyll-feed
     - jekyll-seo-tag
 header_pages: #the pages that I want to publish in the header
-  - biblio.md
   - log.md
+  - biblio.md
