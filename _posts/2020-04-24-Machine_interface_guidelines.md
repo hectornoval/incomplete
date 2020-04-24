@@ -24,9 +24,10 @@ The interface elements provided by the Kit fit into three main categories:
 
 **Controls**. Initiate actions and convey information. Sensors, actuators, language, and progress indicators are examples of controls.
 
-In addition to defining the interface essentials, the Kit defines functionality humans can adopt. Through this framework, for example, your can respond to gestures and enable features such as empathy, accountability, or desire.
+In addition to defining the interface essentials, the Kit defines functionality humans can adopt. Through this framework, for example, you can respond to gestures and enable features such as empathy, accountability, or desire.
 
 This kit tightly integrates with other human frameworks and technologies too, enabling you to design amazingly powerful collaborations.
 
+- *This is just an experiment. Original content can be found [here](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)*
 
 ##### [⟵](/../../icomplete/index.html)
