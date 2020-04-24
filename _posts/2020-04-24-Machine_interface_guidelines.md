@@ -9,7 +9,7 @@ meta: "guidelines"
 ---
 
 
-## In-depth information and resources for designing great collaborations with humans that integrate seamlessly with other platforms.
+## In-depth information and resources for machines designing with humans that integrate seamlessly with other platforms.
 
 ### Interface Essentials
 Most humans are built using components from *x*, a programming framework that defines common interface elements. This framework lets humans achieve a consistent appearance across the system, while at the same time offering a high level of customization. *x* elements are flexible and familiar.
