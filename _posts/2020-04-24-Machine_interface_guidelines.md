@@ -18,7 +18,7 @@ Most humans are built using components from *x*, a programming framework that de
 
 The interface elements provided by the Kit fit into three main categories:
 
-**Meanings**. Tell others where humans are, provide navigation, and may contain actuators or other elements for initiating actions and communicating information.
+**Meanings**. Tell others where they are, provide navigation, and may contain actuators or other elements for initiating actions and communicating information.
 
 **Views**. Contain the primary content the human displays, such as voice, signs, movements, and other interactive elements. Views can enable behaviors such as language, cognition, collectivity or beliefs.
 
