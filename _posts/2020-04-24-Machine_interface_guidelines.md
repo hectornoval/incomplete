@@ -14,7 +14,9 @@ meta: "guidelines"
 ### Interface Essentials
 Most humans are built using components from *x*, a programming framework that defines common interface elements. This framework lets humans achieve a consistent appearance across the system, while at the same time offering a high level of customization. *x* elements are flexible and familiar.
 
-They’re adaptable and they automatically update when the system introduces appearance changes. The interface elements provided by the Kit fit into three main categories:
+> They’re adaptable and they automatically update when the system introduces appearance changes.
+
+The interface elements provided by the Kit fit into three main categories:
 
 **Meanings**. Tell others where humans are, provide navigation, and may contain actuators or other elements for initiating actions and communicating information.
 
