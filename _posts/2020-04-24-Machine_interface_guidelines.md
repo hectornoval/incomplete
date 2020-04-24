@@ -28,6 +28,6 @@ In addition to defining the interface essentials, the Kit defines functionality 
 
 This kit tightly integrates with other human frameworks and technologies too, enabling you to design amazingly powerful collaborations.
 
-- *This is just an experiment. Original content can be found [here](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)*
+*This is an experiment. Original content can be found [here](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)*
 
 ##### [⟵](/../../icomplete/index.html)
