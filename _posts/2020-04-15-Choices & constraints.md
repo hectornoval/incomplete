@@ -129,6 +129,6 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 \\
 Aenean risus libero, *placerat at vestibulum* eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. **Aenean risus** libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing ***adipiscing sollicitudin***, adipiscing eget est.Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-- *This is just an experiment. Original content can be found [here](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)*
+
 
 ##### [⟵](/../../manima/index.html)
