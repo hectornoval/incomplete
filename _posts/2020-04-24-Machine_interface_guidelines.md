@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Machine interface guidelines"
-categories: Experiment
+categories: Guidelines
 ##author:
 #- Your name here
 #- yours too
-meta: "guidelines"
+meta: "Experiment"
 ---
 
 
