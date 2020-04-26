@@ -8,8 +8,8 @@ categories: Experimento
 meta: "Meta"
 ---
 
-Este es un pensamiento incompleto. Una simple y sencilla invitación
-a la práctica del dar y quitar razones.
+## Este es un pensamiento incompleto. Una simple y sencilla invitación
+a la práctica del dar y quitar razones. ##
 
 
 ### Renuncias
