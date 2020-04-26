@@ -8,7 +8,7 @@ categories: Experimento
 meta: "Meta"
 ---
 
-## Esto es un pensamiento incompleto, un experimento para descomponer ideas y contradicciones. También es una simple y sencilla invitación a la práctica del dar y quitar razones.
+## Esto es un pensamiento incompleto para descomponer ideas y contradicciones. También es una simple y sencilla invitación a la práctica del dar y quitar razones.
 
 
 ### Renuncias
@@ -24,9 +24,7 @@ que la lengua como sistema, tiene la capacidad de producir 'ene' discursos,
 el diseño como sistema, también debería ser capaz de producir 'ene' modelos,
 todos ellos válidos.
 
-El rol del diseño. Que no entiendo como un problema dentro del 'corpus teórico'
-del diseño, sino un discurso ideológico y político desecadenado por la
-'explotación del diseño'y que debería enmarcarse como tal.
+El rol del diseño, que no debería ser entendido como un problema dentro del 'corpus teórico' del diseño, sino un discurso ideológico y político desecadenado por la 'explotación del diseño'y que debería enmarcarse como tal.
 
 El hecho de que no diseñamos y una firme convicción de que la práctica a la que
 nos referimos como diseño no es sino un ejercicio de composición y recombinación
