@@ -7,6 +7,6 @@ permalink: /log/
 ---
 
 
-I am not a designer.
+I am not a designer.  
 
-I use my skills to relate units and structures that machines run to interact with humans.
+I practice my skills to relate units and structures that machines run to interact with humans.
