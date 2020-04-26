@@ -8,7 +8,7 @@ categories: Experimento
 meta: "Meta"
 ---
 
-## Esto es un pensamiento incompleto. Un experimento para descomponer ideas y contradicciones. También es una simple y sencilla invitación a la práctica del dar y quitar razones. ##
+## Esto es un pensamiento incompleto. Un experimento para descomponer ideas y contradicciones y exponerlas de manera sistemática a la práctica del dar y quitar razones. ##
 
 
 ### Renuncias
