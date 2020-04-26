@@ -19,7 +19,7 @@ Pero si nos conocemos, sabemos de que pie cojeo.
 El punto de partida es un simple ejercicio crítico que intenta aunar elementos
 que tienden a presentarse disgregados y que me apetecía juntar:
 
-La atribución al diseño de una una función comunicativa. De ser así, al igual
+La atribución al diseño de una función comunicativa. De ser así, al igual
 que la lengua como sistema, tiene la capacidad de producir 'ene' discursos,
 el diseño como sistema, también debería ser capaz de producir 'ene' modelos,
 todos ellos válidos.
