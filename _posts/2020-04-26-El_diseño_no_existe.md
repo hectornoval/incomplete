@@ -26,7 +26,7 @@ todos ellos válidos.
 
 El rol del diseño, que no debería ser entendido como un problema dentro del 'corpus teórico' del diseño, sino un discurso ideológico y político desecadenado por la 'explotación del diseño'y que debería enmarcarse como tal.
 
-El hecho de que no diseñamos y una firme convicción de que la práctica a la que
+El hecho de que no diseñamos, una firme convicción de que la práctica a la que
 nos referimos como diseño no es sino un ejercicio de composición y recombinación
 de patrones y componentes que ya existen en el sistema, sin que se produzcan
 cambios, nuevos usos o nuevos significados, convirtiendolos en meros ejercicio
@@ -43,7 +43,7 @@ un proceso de producción. Entonces, es necesario definir cómo se produce para
 definir qué se produce.
 
 
-#### *Aún no tengo claro si lo siguiente es relevante, pero si fuera necesario acotar más:*
+*Aún no tengo claro si lo siguiente es relevante, pero si fuera necesario acotar más:*
   - El diseño no es binario, puediendo estar en más de un estado al mismo tiempo.
 
   - El 'thinking' sin el 'doing' - y a la inversa - no son diseño. Son indisociables.
