@@ -19,26 +19,26 @@ Pero si nos conocemos, sabemos de que pie cojeo.
 El punto de partida es un simple ejercicio crítico que intenta aunar elementos
 que tienden a presentarse disgregados y que me apetecía juntar:
 
-La atribución al diseño de una función comunicativa. De ser así, al igual
+1. La atribución al diseño de una función comunicativa. De ser así, al igual
 que la lengua como sistema, tiene la capacidad de producir 'ene' discursos,
 el diseño como sistema, también debería ser capaz de producir 'ene' modelos,
 todos ellos válidos.
 
-El rol del diseño, que no debería ser entendido como un problema dentro del 'corpus teórico' del diseño, sino un discurso ideológico y político desecadenado por la 'explotación del diseño'y que debería enmarcarse como tal.
+2. El rol del diseño, que no debería ser entendido como un problema dentro del 'corpus teórico' del diseño, sino un discurso ideológico y político desecadenado por la 'explotación del diseño'y que debería enmarcarse como tal.
 
-El hecho de que no diseñamos, una firme convicción de que la práctica a la que
+3. El hecho de que no diseñamos, una firme convicción de que la práctica a la que
 nos referimos como diseño no es sino un ejercicio de composición y recombinación
 de patrones y componentes que ya existen en el sistema, sin que se produzcan
 cambios, nuevos usos o nuevos significados, convirtiendolos en meros ejercicio
 de optimización de la producción y debería enmarcarse como tal.
 
-Por último, la creeencia de que es posible hacer crítica del diseño, de
+4. Por último, la creeencia de que es posible hacer crítica del diseño, de
 manera agnóstica a las actividades que derivan de su explotación y dejando a un
 lado la perspectiva histórica y de autor. Si fuera cierto, deberíamos ser capaces
 de designar el diseño tomando como marco teórico el diseño desde el punto de
 vista del diseño.
 
-Por último, que si asumimos que solo podemos llegar a un resultado a través de
+Por último, si asumimos que solo podemos llegar a un resultado a través de
 un proceso de producción. Entonces, es necesario definir cómo se produce para
 definir qué se produce.
 
