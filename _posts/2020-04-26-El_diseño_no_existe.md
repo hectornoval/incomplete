@@ -24,7 +24,7 @@ nos referimos como diseño no es diseño, sino composición y recombinación de 
 
 3. Un  intento de hablar de diseño desde una posición agnóstica a las actividades que derivan de su explotación y dejando a un lado la perspectiva histórica y de autor. De ser posible, deberíamos ser capaces de hablar del diseño desde el punto de vista del diseño.
 
-4. Romper con una tradición que prioriza el pensamiento sobre el hacer y defender la postura de que solo es posible plantear la crítica desde el resultado. Por ser el objeto de diseño el lugar donde se articulan y hacen tangibles todas las dicotomías
+4. Romper con una tradición que prioriza el pensar y descarta el hacer. Defendiendo la postura de que solo es posible hacer crítica del diseño desde el resultado. Por ser la forma el lugar donde se articulan y hacen tangibles todas las dicotomías
 
 Si asumimos que solo podemos llegar a un resultado a través de un proceso de producción. Entonces, es necesario definir cómo se produce para definir qué se produce.
 
