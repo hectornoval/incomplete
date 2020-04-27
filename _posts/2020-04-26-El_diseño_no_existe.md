@@ -21,13 +21,16 @@ Es un ejercio de auto crítica. Un intentanto de aunar cuatro o cinco reflexione
 2. Defender con un argumento más sólido, la convicción de que la práctica a la que
 nos referimos como diseño no es diseño, sino composición y recombinación de patrones de un sistema. En este, no se producen cambios, nuevos usos o  significados y la práctica debería enmarcarse en el contexto de la economía y la optimización de la producción.
 
-Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Pero no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y que, por tanto, debería enmarcarse como tal.
 
 3. Un  intento de hablar de diseño desde una posición agnóstica a las actividades que derivan de su explotación y dejando a un lado la perspectiva histórica y de autor. De ser posible, deberíamos ser capaces de hablar del diseño desde el punto de vista del diseño.
 
 4. Romper con una tradición que prioriza el pensamiento sobre el hacer y defender la postura de que solo es posible plantear la crítica desde el resultado. Por ser el objeto de diseño el lugar donde se articulan y hacen tangibles todas las dicotomías
 
 Si asumimos que solo podemos llegar a un resultado a través de un proceso de producción. Entonces, es necesario definir cómo se produce para definir qué se produce.
+
+Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Pero no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y que, por tanto, debería enmarcarse como tal.
+
+
 
 #### El jaleo
 Si entendemos el diseño como la totalidad de su horizonte problemático, el principal problema al hablar de diseño deriva de usar la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
