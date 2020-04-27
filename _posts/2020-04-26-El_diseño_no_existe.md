@@ -12,7 +12,7 @@ meta: "Meta"
 
 
 ### Renuncias
-Asumiendo que lo voy a modificar, voy ontener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
+Asumiendo que lo voy a modificar, voy contener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
 
 Es un ejercio de auto crítica. Un intentanto de aunar cuatro o cinco reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde ahí:
 
