@@ -8,42 +8,32 @@ categories: Experimento
 meta: "Meta"
 ---
 
-## Esto es un pensamiento en alto, incompleto, para descomponer ideas y contradicciones. También una invitación a la práctica del dar y quitar razones.
+## Esto es un pensamiento en alto, incompleto. Un ejercicio para descomponer ideas y contradicciones. También una invitación a la práctica del dar y quitar razones.
 
 
 ### Renuncias
-Asumiendo que no lo voy a terminar, he intentado contener el texto en mínimos, para que sea flexible y sin demasiados elementos. Pero si nos conocemos, sabemos de que pie cojeo.
+Asumiendo que lo voy a modificar, voy ontener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
 
-Es un ejercio de auto crítica, incompleto, intentando aunar elementos que tienden a presentarse disgregados que me apetecía juntar para orientarme y avanzar desde ahí:
+Es un ejercio de auto crítica. Un intentanto de aunar cuatro o cinco reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde ahí:
 
-1. La atribución al diseño de una función comunicativa. Asumiendo que si la lengua como sistema, tiene la capacidad de producir 'ene' discursos, el diseño como sistema, debería ser capaz de producir 'ene' modelos. Siguiendo la misma lógica, al decomponerlo, podría discernir lo arbitrario de lo formal.
-
-3. El hecho de que no diseñamos, una firme convicción de que la práctica a la que
-nos referimos como diseño no es sino un ejercicio de composición y recombinación
-de patrones y componentes que ya existen en el sistema, sin que se produzcan
-cambios, nuevos usos o nuevos significados, convirtiendolos en meros ejercicio
-de optimización de la producción y debería enmarcarse como tal.
-
-4. Por último, la creeencia de que es posible hacer crítica del diseño, de
-manera agnóstica a las actividades que derivan de su explotación y dejando a un
-lado la perspectiva histórica y de autor. Si fuera cierto, deberíamos ser capaces
-de designar el diseño tomando como marco teórico el diseño desde el punto de
-vista del diseño.
-
-Por último, si asumimos que solo podemos llegar a un resultado a través de
-un proceso de producción. Entonces, es necesario definir cómo se produce para
-definir qué se produce.
-
-Solo es posible plantear la crítica desde el resultado. Por ser el objeto
-de diseño el lugar donde se articulan y hacen tangibles todas las dicotomías.
+1. Cuestionar la atribución al diseño de una función comunicativa. No porque no la tenga, sino porque carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
 
 
-Queda fuera el rol del diseño y por extensión del diseñador, que no debería ser entendido como un problema dentro del 'corpus teórico' del diseño, sino un discurso ideológico y político desecadenado por la 'explotación del diseño'y que debería enmarcarse como tal.
+Por buscar un argumento/ explicación que me ayude a argumentar la idea de que
+
+2. Defender con un argumento más sólido, la convicción de que la práctica a la que
+nos referimos como diseño no es diseño, sino composición y recombinación de patrones de un sistema. En este, no se producen cambios, nuevos usos o  significados y la práctica debería enmarcarse en el contexto de la economía y la optimización de la producción.
+
+Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Pero no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y que, por tanto, debería enmarcarse como tal.
+
+3. Un  intento de hablar de diseño desde una posición agnóstica a las actividades que derivan de su explotación y dejando a un lado la perspectiva histórica y de autor. De ser posible, deberíamos ser capaces de hablar del diseño desde el punto de vista del diseño.
+
+4. Romper con una tradición que prioriza el pensamiento sobre el hacer y defender la postura de que solo es posible plantear la crítica desde el resultado. Por ser el objeto de diseño el lugar donde se articulan y hacen tangibles todas las dicotomías
+
+Si asumimos que solo podemos llegar a un resultado a través de un proceso de producción. Entonces, es necesario definir cómo se produce para definir qué se produce.
 
 #### El jaleo
-Si entendemos el diseño como la totalidad de su horizonte problemático, quizás la
-única complejidad deriva del hecho de usar la misma palabra para referirnos a cosas,
-que por su naturaleza, son diferentes. ~~con distintos niveles de significancia~~.
+Si entendemos el diseño como la totalidad de su horizonte problemático, el principal problema al hablar de diseño deriva de usar la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
 
 - Usamos la palabra diseño como una facultad. Asociándala a la facultad humana (*natural e innata*) para significar lo que nos rodea. Todos somos diseñadores.
 
