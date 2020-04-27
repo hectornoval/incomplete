@@ -59,9 +59,9 @@ Que podría ser algo así como, el diseño existe si tú y yo acordamos que esta
 Para que la forma sea de diseño, al reconocerla, hemos de ser capaces de acordar
 que ha sido producida por diseño.
 
-La forma no es capaz de significarse a si misma como un *bjeto* de diseño sin hacer referencia a otros sistemas que nos son únicos al diseño. La forma, aunque forma parte del diseño, no es diseño.
+La forma no es capaz de significarse a si misma como un *bjeto* de diseño sin hacer referencia a otros sistemas que nos son únicos al diseño. Aunque forma parte del diseño, no es diseño.
 
-En la diferenciación, sistemas como la escala, la función o la estética, aunque inscritos en la cadena de significación, deberían quedar al margen de la definición al igual que otros sistemas como los procesos de impresión y/o producción. El proceso de producción y sus conceptos forman parte del diseño, pero no es diseño.
+En la diferenciación, sistemas como la escala, la función o la estética, deberían quedar al margen al igual que otros sistemas como los procesos de impresión y/o producción. El proceso de producción y sus conceptos forman parte del diseño, pero no son diseño.
 
 #### El artefacto
 Para que exista la posibilidad de crear un artefacto que reconozca que una forma es de diseño, es necesario que se produzca un resultado. No hay diseño hasta que se diseña.
