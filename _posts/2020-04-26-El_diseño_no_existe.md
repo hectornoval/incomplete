@@ -8,13 +8,11 @@ categories: Experimento
 meta: "Meta"
 ---
 
-## Esto es un pensamiento en alto, incompleto. Un ejercicio para descomponer ideas y contradicciones. También una invitación a la práctica del dar y quitar razones.
+## Esto es un ejercio de auto crítica. Un intentanto de aunar varias reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde ahí:
 
 
 ### Renuncias
 Asumiendo que lo voy a modificar, voy contener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
-
-Es un ejercio de auto crítica. Un intentanto de aunar cuatro o cinco reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde ahí:
 
 1. Cuestionar la atribución al diseño de una función comunicativa. No porque no la tenga, sino porque carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
 
