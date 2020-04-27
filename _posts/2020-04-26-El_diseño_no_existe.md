@@ -18,9 +18,6 @@ Es un ejercio de auto crítica. Un intentanto de aunar cuatro o cinco reflexione
 
 1. Cuestionar la atribución al diseño de una función comunicativa. No porque no la tenga, sino porque carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
 
-
-Por buscar un argumento/ explicación que me ayude a argumentar la idea de que
-
 2. Defender con un argumento más sólido, la convicción de que la práctica a la que
 nos referimos como diseño no es diseño, sino composición y recombinación de patrones de un sistema. En este, no se producen cambios, nuevos usos o  significados y la práctica debería enmarcarse en el contexto de la economía y la optimización de la producción.
 
