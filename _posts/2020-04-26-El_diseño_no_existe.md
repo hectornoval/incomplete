@@ -11,7 +11,7 @@ meta: "Meta"
 ## Asumiendo que lo voy a modificar, voy contener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
 
 ### Renuncias
-Esto es un ejercio de auto crítica. Un intentanto de aunar varias reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde aquí:
+Esto es un ejercicio de auto crítica. Un intento de aunar varias reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde aquí:
 
 1. Abandonar la idea de que el diseño es comunicación. Por ser un enunciado que carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
 
