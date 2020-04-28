@@ -11,7 +11,7 @@ meta: "Meta"
 ## Dice Derrida que si una palabra borra la diferencia radical entre significante y significado, es la palabra la que deberíamos abandonar. Quizás sea el momento de abandonar diseño.
 
 ### Restricciones
-Así que, en un intento de auto crítica, he querido aunar varias de las reflexiones que tiendo a presentar disgregadas para verlas escritas, orientarme y avanzar desde aquí.
+En un intento de auto crítica, he querido aunar varias de las reflexiones que tiendo a presentar disgregadas para verlas escritas, orientarme y avanzar desde aquí.
 
 Si nos conocemos, sabemos de que pie cojeo, así que voy a intentar contener el texto a mínimos, sabiendo que lo voy a modificar, intentando que sea flexible y no requiera mucho barroquismo compositivo.
 
@@ -24,7 +24,6 @@ Si nos conocemos, sabemos de que pie cojeo, así que voy a intentar contener el 
 4. Argumentar que la práctica a la que nos referimos como diseño no es diseño. Componemos patrones de un sistema en el que no se producen cambios, nuevos usos ni significados y, quizás, sería correcto enmarcarla en el contexto de la economía y la optimización de la producción.
 
 Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Siendo honesto, no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y debería enmarcarse como tal.
-
 
 
 #### El jaleo
