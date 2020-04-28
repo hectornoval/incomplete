@@ -13,7 +13,7 @@ meta: "Meta"
 ### Restricciones
 En un intento de auto crítica, he querido aunar varias de las reflexiones que tiendo a presentar disgregadas para verlas escritas, orientarme y avanzar desde aquí.
 
-Si nos conocemos, sabemos de que pie cojeo, así que voy a intentar contener el texto a mínimos, sabiendo que lo voy a modificar, intentando que sea flexible y no requiera mucho barroquismo compositivo.
+Si nos conocemos, sabemos de que pie cojeo. Voy a intentar contener el texto a mínimos, sabiendo que lo voy a modificar, intentando que sea flexible. 
 
 1. Hablar de diseño desde una postura agnóstica a las actividades que derivan de su explotación, dejando a un lado la perspectiva histórica y de autor. De conseguirlo, debería ser capaz de hablar de diseño desde el punto de vista del diseño sin necesidad de usar metáforas.
 
