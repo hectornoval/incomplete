@@ -8,17 +8,16 @@ categories: Experimento
 meta: "Meta"
 ---
 
-## Esto es un ejercio de auto crítica. Un intentanto de aunar varias reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde ahí:
-
+## Asumiendo que lo voy a modificar, voy contener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
 
 ### Renuncias
-Asumiendo que lo voy a modificar, voy contener el texto a mínimos para que sea flexible. Si nos conocemos, sabemos de que pie cojeo.
+Esto es un ejercio de auto crítica. Un intentanto de aunar varias reflexiones que tiendo a presentar disgregadas para orientarme y avanzar desde aquí:
 
-1. Cuestionar la atribución al diseño de una función comunicativa. No porque no la tenga, sino porque carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
+1. Abandonar la idea de que el diseño es comunicación. Por ser un enunciado que carece de rigor y no permite delimitar conceptualmente. Es imposible no comunicar.  
 
-2. Un  intento de hablar de diseño desde una posición agnóstica a las actividades que derivan de su explotación y dejando a un lado la perspectiva histórica y de autor. De ser posible, deberíamos ser capaces de hablar del diseño desde el punto de vista del diseño.
+2. Hablar de diseño desde una posición agnóstica a las actividades que derivan de su explotación y dejando a un lado la perspectiva histórica y de autor. De ser posible, deberíamos ser capaces de hablar del diseño desde el punto de vista del diseño.
 
-3. Romper con una tradición binaria que prioriza el pensar y descarta el hacer. Defendiendo la postura de que solo es posible hacer crítica del diseño desde el resultado. Por ser la forma el lugar donde se articulan y hacen tangibles todas las dicotomías.
+3. Romper con una tradición binaria que prioriza el pensar y descarta el hacer. Solo es posible hacer crítica del diseño desde el resultado por ser la forma el lugar donde se articulan y hacen tangibles todas las dicotomías.
 
 4. Defender con argumentos que la práctica a la que nos referimos como diseño no es diseño, sino composición y recombinación de patrones de un sistema en el que no se producen cambios, nuevos usos o  significados. La práctica debería enmarcarse en el contexto de la economía y la optimización de la producción.
 
