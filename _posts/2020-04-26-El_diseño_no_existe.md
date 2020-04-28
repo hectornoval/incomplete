@@ -11,29 +11,28 @@ meta: "Meta"
 ## Dice Derrida que si una palabra borra la diferencia radical entre significante y significado, es la palabra la que deberíamos abandonar. Quizás sea el momento de abandonar diseño.
 
 ### Restricciones
-Si nos conocemos, sabemos de que pie cojeo. Así que, en un intento de auto crítica, he querido aunar varias de las reflexiones que tiendo a presentar disgregadas para verlas escritas, orientarme y avanzar desde aquí.
+Así que, en un intento de auto crítica, he querido aunar varias de las reflexiones que tiendo a presentar disgregadas para verlas escritas, orientarme y avanzar desde aquí.
 
-Voy a intentarlo contener el texto a mínimos, consciente de que lo voy a modificar, para que sea flexible.
+Si nos conocemos, sabemos de que pie cojeo, así que voy a intentar contener el texto a mínimos, sabiendo que lo voy a modificar, intentando que sea flexible y no requiera mucho barroquismo compositivo.
 
-1. Hablar de diseño desde una postura agnóstica a las actividades que derivan de su explotación, dejando a un lado la perspectiva histórica y de autor. De conseguirlo, debería ser capaz de hablar de diseño desde el punto de vista del diseño.
+1. Hablar de diseño desde una postura agnóstica a las actividades que derivan de su explotación, dejando a un lado la perspectiva histórica y de autor. De conseguirlo, debería ser capaz de hablar de diseño desde el punto de vista del diseño sin necesidad de usar metáforas.
 
-2. Abandonar la idea de que el diseño es comunicación, no porque no sea, sino porque no permite acotar, es imposible no comunicar.  
+2. Abandonar la idea de que el diseño es comunicación. No porque no sea, sino porque no permite acotar. Es imposible no comunicar.
 
-3. Romper con una tradición que prioriza el pensar y descarta el hacer. Para defender que solo es posible hacer crítica del diseño desde el "la forma" por ser el lugar donde se articulan y hacen tangibles todas las dicotomías.
+3. Romper con una corriente ~~tradición~~ que prioriza el pensar y descarta el hacer. Solo es posible hacer crítica del diseño desde el resltado. En la forma se articulan y hacen tangibles todas las dicotomías.
 
-4. Argumentar que la práctica a la que nos referimos como diseño no es diseño, sino un ejercicio de composición de patrones de un sistema en el que no se producen cambios, nuevos usos o  significados. La práctica debería enmarcarse en el contexto de la economía y la optimización de la producción.
+4. Argumentar que la práctica a la que nos referimos como diseño no es diseño. Componemos patrones de un sistema en el que no se producen cambios, nuevos usos ni significados y, quizás, sería correcto enmarcarla en el contexto de la economía y la optimización de la producción.
 
-Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Pero no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y debería enmarcarse como tal.
+Mantengo fuera el rol del diseño y por extensión de las personas que diseñan, por mantenerlo sencillo. Siendo honesto, no estoy seguro que su definición forme parte 'del diseño' sino del discurso político e ideológico desecadenado por la 'explotación del diseño' y debería enmarcarse como tal.
 
-Si asumimos que solo podemos llegar a un resultado a través de un proceso de producción. Entonces, es necesario definir cómo se produce para definir qué se produce.
 
 
 #### El jaleo
 Tomando el diseño desde la totalidad de su horizonte problemático, probablemente el reto principal a la hora de hablar de diseño deriva del uso de una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
 
-- Usamos la palabra diseño como una facultad. Asociándala a la facultad humana (~~natural e innata~~) para significar lo que nos rodea. Todos somos diseñadores.
+- Usamos la palabra diseño asociándala a la facultad que tenemos (~~natural e innata~~) para significar todo lo que nos rodea. Todos somos diseñadores.
 
-- Usamos la palabra diseño como una función. Cuando asociamos la palabra al artefacto ~acuerdo~ social, formado por recursos y convenciones, que empleamos para hacerlo tangible.~~Que además no tenemos agencia para modificar.~~
+- Usamos la palabra diseño asociándola al acuerdo ~~artefacto~~ social, que empleamos para hacerlo tangible. ~~Que además no tenemos agencia para modificar~~.
 
 - Usamos la palabra diseño para referirnos a la unidad producida en la realización de la actividad. *(Quizás, partiendo de aquí podría profundizar en la idea de que 'todo' es susceptible de ser diseñado aunque no todo es diseño).*
 
@@ -60,7 +59,6 @@ En lo mental, tampoco podría existir ya que la forma no se ha producido. De hac
 
 #### La facultad
 Si diseño no es la forma, ni su producción y no es posible confirmar el artefacto porque no existe, o renunciamos al factor diferenciador por ser una facultad común a todos los humanos o hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
-
 
 
 
