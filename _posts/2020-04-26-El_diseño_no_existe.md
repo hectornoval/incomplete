@@ -11,15 +11,16 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Restricciones
-Siendo honesto, no sé a dónde quiero llegar. Voy a meter en un mismo texto cosas de las que alguna vez intento hablar. Quizás juntándolas consiga conectarlas, orientarme y avanzar desde ahí, o no.
+La verdad, aún no sé dónde quiero llegar. Por ahora, voy a ver meter en un mismo texto tres cosas de las que, a menudo, intento hablar. Quizás así consiga conectarlas, orientarme y avanzar desde ahí.
 
-1. Enmarcar diseño en un espacio agnóstico a las actividades que derivan de su explotación, intentando dejar a un lado la perspectiva de autor. A ver si soy capaz de hablar de diseño desde lo que significa y sin necesidad de usar metáforas.
+Como todo tiene que empezar por algún sitio, voy a empezar por diferenciar diseño y *explotación del diseño*. A ver si desde ahí soy capaz de hablar desde lo que es,
+sin necesidad de usar metáforas.
 
-2. Argumentar que la práctica a la que nos referimos como diseño, no es diseño y que lo que hacemos, en verdad, es componer patrones de un sistema en el que no se producen nuevos significados.
+Como una cosa significa y la otra explota, seguramente sea posible también diferenciar las prácticas y explicar porque 'eso' a lo que llamamos diseño, no es diseño sino componer con patrones de un sistema en el que no se producen cambios, ni nuevos significados.
 
-3. Romper con una tradición que prioriza la herramienta de toma de decisiones y recuperar una aproximación que entiende el diseño en su estricta expresión. Pasar de lo intangible a lo tangible.  
+Quizás, todo esto permitiría romper con una tradición que prioriza la herramienta de toma de decisiones y recuperar una aproximación que entiende el diseño en su estricta expresión. Pasar de lo intangible a lo tangible.  
 
-Como lo de antes me parece suficiente que masticar, voy a dejar a un lado el rol del diseño y las personas que diseñan . El diseño debería ser capaz de formularse sin importar el soporte.
+Voy a dejar a un lado el rol del diseño y las personas que diseñan, Porque lo de antes me parece suficiente a masticar. El diseño debería ser capaz de formularse sin importar el soporte.
 
 #### El jaleo
 Tomando diseño desde la totalidad de su horizonte problemático, quizás todo empiece - o todo termine - con la falta de rigor que supone utilizar la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
