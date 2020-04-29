@@ -11,7 +11,7 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Restricciones
-Siendo honesto, no sé a dónde quiero llegar. Voy a meter en un mismo texto cosas de las que alguna vez intento hablar. Quizás juntándolas consiga conectarlas, orientarme y avanzar desde ahí.
+Siendo honesto, no sé a dónde quiero llegar. Voy a meter en un mismo texto cosas de las que alguna vez intento hablar. Quizás juntándolas consiga conectarlas, orientarme y avanzar desde ahí, o no.
 
 1. Enmarcar diseño en un espacio agnóstico a las actividades que derivan de su explotación, intentando dejar a un lado la perspectiva de autor. A ver si soy capaz de hablar de diseño desde lo que significa y sin necesidad de usar metáforas.
 
