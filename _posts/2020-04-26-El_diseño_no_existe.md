@@ -11,9 +11,9 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Restricciones.
-No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme para avanzar desde allí.
+No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme y avanzar desde allí.
 
-Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - Una cosa representa y la otra utiliza, no debería ser complicado encontrar diferencias entre ambas prácticas.
+Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - La manera más corta quizás sería que una representa y la otra utiliza. No debería ser complejo separar dos cosas que no son lo mismo ni encontrar diferencias entre ambas prácticas.
 
 Dejando a un lado el rol del diseño y las personas que diseñan, porque lo de antes me parece suficiente a masticar y porque el diseño debería ser capaz de formularse sin importar el soporte.
 
