@@ -24,7 +24,6 @@ Esto permitiría una aproximación al diseño desde su estricta expresión, pasa
 Pero sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
 
 
-
 #### El jaleo
 Si asumimos que solo podemos llegar a un resultado a través de un proceso, es necesario definir cómo se produce para definir qué se produce.
 
