@@ -10,11 +10,10 @@ meta: "Meta"
 
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
-### Restricciones
-La verdad, aún no sé dónde quiero llegar. Por ahora, voy a ver meter en un mismo texto tres cosas de las que, a menudo, intento hablar. Quizás así consiga conectarlas, orientarme y avanzar desde ahí.
+### Restricciones.
+No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme para avanzar desde allí.
 
-Como todo tiene que empezar por algún sitio, voy a empezar por diferenciar diseño y *explotación del diseño*. A ver si desde ahí soy capaz de hablar desde lo que es,
-sin necesidad de usar metáforas.
+Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y desde ahí, a ver si consigo hablar desde lo que es y de cómo se hace, sin necesidad de usar metáforas.
 
 Como una cosa significa y la otra explota, debería ser posible diferenciar las prácticas y argumentar que 'eso' a lo que llamamos diseño, no es diseño sino composición ~~con patrones de un sistema en el que no se generan cambios, ni nuevos significados~~. Sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
 
