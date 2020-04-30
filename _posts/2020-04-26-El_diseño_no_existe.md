@@ -16,9 +16,9 @@ La verdad, aún no sé dónde quiero llegar. Por ahora, voy a ver meter en un mi
 Como todo tiene que empezar por algún sitio, voy a empezar por diferenciar diseño y *explotación del diseño*. A ver si desde ahí soy capaz de hablar desde lo que es,
 sin necesidad de usar metáforas.
 
-Como una cosa significa y la otra explota, seguramente sea posible también diferenciar las prácticas y explicar porque 'eso' a lo que llamamos diseño, no es diseño sino componer con patrones de un sistema en el que no se producen cambios, ni nuevos significados.
+Como una cosa significa y la otra explota, debería ser posible diferenciar las prácticas y argumentar que 'eso' a lo que llamamos diseño, no es diseño sino composición ~~con patrones de un sistema en el que no se generan cambios, ni nuevos significados~~. Sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
 
-Quizás, todo esto permitiría romper con una tradición que prioriza la herramienta de toma de decisiones y recuperar una aproximación que entiende el diseño en su estricta expresión. Pasar de lo intangible a lo tangible.  
+Me imagino que además dar y quitar razones, esto permitiría una aproximación al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
 
 Voy a dejar a un lado el rol del diseño y las personas que diseñan, Porque lo de antes me parece suficiente a masticar. El diseño debería ser capaz de formularse sin importar el soporte.
 
