@@ -23,16 +23,18 @@ Quizás, todo esto permitiría romper con una tradición que prioriza la herrami
 Voy a dejar a un lado el rol del diseño y las personas que diseñan, Porque lo de antes me parece suficiente a masticar. El diseño debería ser capaz de formularse sin importar el soporte.
 
 #### El jaleo
-Tomando diseño desde la totalidad de su horizonte problemático, quizás todo empiece - o todo termine - con la falta de rigor que supone utilizar la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
+Si asumimos que solo podemos llegar a un resultado a través de un proceso, es necesario definir cómo se produce para definir qué se produce.
+
+Tomando la totalidad de su horizonte problemático, quizás todo empiece - o todo termine - con algo tan sencillo como el problema que deriva de usar la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~.
 
 Usamos la palabra diseño para referirnos a la forma producida.
 
-Usamos diseño para referirnos a los procesos que ponemos en marcha para producir nuevas formas.
+Usamos la palabra diseño para referirnos a los procesos que ponemos en marcha para producir nuevas formas.
 
-Llamamos diseño para referirnos a la capacidad humana para significar lo que nos rodea. Todos somos diseñadores.
+Llamamos la palabra diseño para referirnos a la capacidad humana para significar lo que nos rodea. Todos somos diseñadores.
 
 #### No hay diseño hasta que se diseña.
-El diseño existe cuando tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Sea la 'cosa' tan pequeña como una equis o tan grande como un territorio es siempre cosa de, por lo menos, dos.
+El diseño existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Sea la 'cosa' tan pequeña como una equis o tan grande como un territorio es siempre cosa de, por lo menos, dos.
 
 Empezando por el resultado, por ser el lugar donde se cristalizan todas las dicotomías.
 
