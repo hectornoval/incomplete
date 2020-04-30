@@ -13,13 +13,17 @@ meta: "Meta"
 ### Restricciones.
 No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme para avanzar desde allí.
 
-Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y desde ahí, a ver si consigo hablar desde lo que es y de cómo se hace, sin necesidad de usar metáforas.
+Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - Una cosa representa y la otra utiliza, no debería ser complicado encontrar diferencias entre ambas prácticas.
 
-Como una cosa significa y la otra explota, debería ser posible diferenciar las prácticas y argumentar que 'eso' a lo que llamamos diseño, no es diseño sino composición ~~con patrones de un sistema en el que no se generan cambios, ni nuevos significados~~. Sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
+Dejando a un lado el rol del diseño y las personas que diseñan, porque lo de antes me parece suficiente a masticar y porque el diseño debería ser capaz de formularse sin importar el soporte.
 
-Me imagino que además dar y quitar razones, esto permitiría una aproximación al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
+Desde ahí, a ver si consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas y argumentar que 'eso' a lo que llamamos diseño, no es diseño sino composición ~~con patrones de un sistema en el que no se generan cambios, ni nuevos significados~~.
 
-Voy a dejar a un lado el rol del diseño y las personas que diseñan, Porque lo de antes me parece suficiente a masticar. El diseño debería ser capaz de formularse sin importar el soporte.
+Esto permitiría una aproximación al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
+
+Pero sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
+
+
 
 #### El jaleo
 Si asumimos que solo podemos llegar a un resultado a través de un proceso, es necesario definir cómo se produce para definir qué se produce.
