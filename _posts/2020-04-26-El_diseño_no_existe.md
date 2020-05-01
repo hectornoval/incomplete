@@ -11,7 +11,7 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Constricciones.
-No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de intento de borrador y, con suerte, orientarme desde allí. Al fin y al cabo, ya no pensamos en series, sino en versiones. v.2020-05-01 22:21:52 +7
+No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que no pasa de intento de borrador y, con suerte, orientarme desde allí. Al fin y al cabo, ya no pensamos en series, sino en versiones. v.2020-05-01 22:21:52 +7
 
 Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
