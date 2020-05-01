@@ -15,7 +15,7 @@ No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encarg
 
 Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Aunque sea por aportar una mirada abierta - o cerrada, según se mire - me parece más interesante entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+Aunque sea por aportar una mirada abierta - o cerrada, según se mire - me parece más interesante el ejercicio de hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
