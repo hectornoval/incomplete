@@ -13,13 +13,13 @@ meta: "Meta"
 ### La movida.
 No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de intento de borrador y, con suerte, orientarme desde allí.
 
-Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - tiene mucha chicha, que dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
+Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Desde aquí, con el puesto a un lado, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+Aunque sea por aportar una vision abierta,, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
-Con suerte, en el camino rompemos con una tradición que confunde diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
+Quizás sin romper nada, expandimos la conversación más allá de un enfoque puramente instrumental que confunde diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
 
 #### El jaleo.
 Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, tampoco - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
