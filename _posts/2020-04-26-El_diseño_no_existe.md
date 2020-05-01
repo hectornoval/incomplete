@@ -10,18 +10,19 @@ meta: "Meta"
 
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
-### Restricciones.
+### La movida.
 No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme desde allí.
 
 Como todo tiene que empezar por algún sitio. El mío, empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Desde aquí, con la práctica puesta a un lado, a ver si consigo hablar desde lo que es y no de cómo se hace, sin metáforas y agnóstico al soporte. Pasar de lo intangible a lo tangible.
+Desde aquí, con el puesto a un lado, sería pura fantasía hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
-Que resumido en bonito vendría a ser, que si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no hay diseño y, con suerte, en el camoino rompemos con una tradición que confunde expresar con gobernar y al diseño con una herramienta de toma de decisiones.
-El pensar sin el hacer son dos acciones diferentes.
+Que en bonito vendría a ser, que si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no existe.
+
+Con suerte, en el camino rompemos con una tradición que confunde expresar con gobernar y al diseño con una herramienta de toma de decisiones. No hay diseño hasta que se diseña.
 
 
-#### No hay diseño hasta que se diseña.
+#### El jaleo.
 Como el final es dónde cristaliza todo el horizonte problemático, quizás todo empiece - o todo termine - con algo tan sencillo como el problema que tiene usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
 
 Usamos la palabra diseño para referirnos a la forma producida.
