@@ -19,7 +19,7 @@ Desde aquí, con el puesto a un lado, lo suyo sería empezar a entender la cosa 
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
-Con suerte, en el camino rompemos con una tradición diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
+Con suerte, en el camino rompemos con una tradición que confunde diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
 
 #### El jaleo.
 Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, tampoco - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
