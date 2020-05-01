@@ -15,9 +15,7 @@ No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encarg
 
 Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Aunque sea por aportar una vision abierta, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
-
-el proceso no es una representación, es un proyecto.
+Aunque sea por aportar una mirada abierta - o cerrada, según se mire - me parece más interesante entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
@@ -36,7 +34,7 @@ Si, al menos, estamos de acuerdo en que el diseño existe porque tú y yo acorda
 
 Lo que pasa es que la 'cosa', por si misma, no es capaz de significarse sin hacer referencia a otros sistemas, que además nos son únicos al diseño. La forma, no es diseño.
 
-Los procesos por los que obtenemos la forma, son más amigos de optimizar que de generar, no estaría de más dejarlos un rato al margen. No se producen para zanjar un problema, sino que buscan refinar un sistema.
+Los procesos por los que obtenemos la forma, son más amigos de optimizar que de generar, no estaría de más dejarlos un rato al margen. No se producen para zanjar un problema, sino que buscan refinar un sistema. El proceso no es una representación, es un proyecto.
 
  La producción forma parte del diseño, pero no es diseño.
 
