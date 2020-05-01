@@ -23,7 +23,7 @@ Con suerte, en el camino rompemos con una tradición que confunde expresar con g
 
 
 #### El jaleo.
-Como el final es dónde cristaliza todo el horizonte problemático, quizás todo empiece - o todo termine - con algo tan sencillo como el problema que tiene usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
+Como el final es dónde cristaliza todo el horizonte problemático - no el de los diseñadores, el del diseño - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
 
 Usamos la palabra diseño para referirnos a la forma producida.
 
@@ -31,11 +31,11 @@ Usamos la palabra diseño para referirnos a los procesos que ponemos en marcha p
 
 Usamos la palabra diseño para referirnos a la capacidad humana para significar lo que nos rodea. Todos somos diseñadores.
 
-Si al menos estamos de acuerdo en que el diseño existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Podríamos por lo menos acordar que es cosa de dos.
+Si, al menos, estamos de acuerdo en que el diseño existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Estaríamos de acuerdo que, como mínimo, es cosa de dos.
 
-La 'cosa' por si misma no es capaz de significarse sin hacer referencia a otros sistemas - que además nos son únicos al diseño. La forma, no es diseño.
+Lo que pasa es que la 'cosa', por si misma, no es capaz de significarse sin hacer referencia a otros sistemas, que además nos son únicos al diseño. La forma, no es diseño.
 
-Los procesos por los que obtenemos la forma, tampoco cumplen la función de generar significado, sino de producir y debería ser posible, por ahora, dejarlos al margen. Los procesos de producción forman parte del diseño, pero no son diseño.
+Los procesos por los que obtenemos la forma, son más amigos de optimizar que de generar, no estaría de más dejarlos un rato al margen. La producción forma parte del diseño, pero no es diseño.
 
 El acuerdo, ocurre simultáneamente en dos sistemas: lo mental y lo físico.
 
