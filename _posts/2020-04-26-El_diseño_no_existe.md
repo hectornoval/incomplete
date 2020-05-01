@@ -13,7 +13,7 @@ meta: "Meta"
 ### Restricciones.
 No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme desde allí.
 
-Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
+Como todo tiene que empezar por algún sitio. El mío, empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
 Desde aquí, con la práctica puesta a un lado, a ver si consigo hablar desde lo que es y no de cómo se hace, sin metáforas y agnóstico al soporte. Pasar de lo intangible a lo tangible.
 
