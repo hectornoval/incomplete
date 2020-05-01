@@ -11,15 +11,14 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Restricciones.
-No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme y avanzar desde allí.
+No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme desde allí.
 
-Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y que se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se pueden practicar de la misma manera.
+Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Dejando roles y títulos a un lado, que lo anterior ya me parece suficiente que masticar, a ver si desde aquí consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas y sin prestarle mucha atención al soporte.
+Desde aquí, con la práctica puesta a un lado, a ver si consigo hablar desde lo que es y no de cómo se hace, sin metáforas y agnóstico al soporte. Pasar de lo intangible a lo tangible.
 
-De ser posible, quizás pueda aproximarme al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que confunde diseño con la herramienta de toma de decisiones y separa el pensar del hacer.
-
-Porque, al final, si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no existe.
+Que resumido en bonito vendría a ser, que si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no hay diseño y, con suerte, en el camoino rompemos con una tradición que confunde expresar con gobernar y al diseño con una herramienta de toma de decisiones.
+El pensar sin el hacer son dos acciones diferentes.
 
 
 #### No hay diseño hasta que se diseña.
