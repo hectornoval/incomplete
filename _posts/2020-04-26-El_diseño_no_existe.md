@@ -13,13 +13,11 @@ meta: "Meta"
 ### Restricciones.
 No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme y avanzar desde allí.
 
-Todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - La manera más corta quizás sería que una representa y la otra utiliza. No debería ser complejo separar dos cosas que no son lo mismo ni encontrar diferencias entre ambas prácticas.
+Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - pero que se parecen tanto como un lápiz y un teclado. Sobre todo porque si no son lo mismo, tampoco se pueden practicar de la misma manera.
 
-Dejando a un lado el rol del diseño y las personas que diseñan, porque lo de antes me parece suficiente a masticar y porque el diseño debería ser capaz de formularse sin importar el soporte.
+Dejando a un lado el rol del diseño y las personas que diseñan, que ya me parece suficiente a masticar, a ver si desde aquí consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas. Si no existe, que más da el soporte,
 
-Desde ahí, a ver si consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas y argumentar que 'eso' a lo que llamamos diseño, no es diseño sino composición ~~con patrones de un sistema en el que no se generan cambios, ni nuevos significados~~.
-
-Esto permitiría una aproximación al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
+De ser posible, quizás pueda aproximarme al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
 
 Pero sobre todo, porque si tú y yo no estamos de acuerdo en que diseño es diseño, entonces no existe.
 
