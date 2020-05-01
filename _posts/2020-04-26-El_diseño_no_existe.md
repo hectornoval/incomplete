@@ -15,7 +15,7 @@ No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encarg
 
 Como todo tiene que empezar por algún sitio. El mío, empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Desde aquí, con el puesto a un lado, sería pura fantasía hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+Desde aquí, con el puesto a un lado, sería lo suyo hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
 Que en bonito vendría a ser, que si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no existe.
 
