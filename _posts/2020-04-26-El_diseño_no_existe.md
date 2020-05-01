@@ -13,9 +13,9 @@ meta: "Meta"
 ### La movida.
 No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de intento de borrador y, con suerte, orientarme desde allí.
 
-Como todo tiene que empezar por algún sitio. El mío, empieza diferenciando diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero que se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
+Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero que se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Desde aquí, con el puesto a un lado, empezamos a hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+Desde aquí, con el puesto a un lado, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
