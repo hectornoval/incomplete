@@ -17,7 +17,7 @@ Como todo tiene que empezar por algún sitio. El mío, empieza diferenciando dis
 
 Desde aquí, con el puesto a un lado, sería lo suyo hablar desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
 
-Que en bonito vendría a ser, que si tú y yo no estamos de acuerdo en que diseño es diseño, simplemente no existe.
+Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista. 
 
 Con suerte, en el camino rompemos con una tradición que confunde expresar con gobernar y al diseño con una herramienta de toma de decisiones. No hay diseño hasta que se diseña.
 
