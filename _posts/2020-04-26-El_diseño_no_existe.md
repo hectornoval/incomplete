@@ -10,19 +10,21 @@ meta: "Meta"
 
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
-### La movida.
-No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de intento de borrador y, con suerte, orientarme desde allí.
+### Constricciones.
+No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encargos, ni entregas. Solo por comprobar si las letras pueden *fijar* una idea que apenas pasa de intento de borrador y, con suerte, orientarme desde allí. Al fin y al cabo, ya no pensamos en series, sino en versiones. v.2020-05-01 22:21:52 +7
 
 Como todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Aunque sea por aportar una vision abierta,, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+Aunque sea por aportar una vision abierta, lo suyo sería empezar a entender la cosa desde lo que es y no de cómo se hace. Sin metáforas y de forma agnóstica al soporte. Pasar de lo intangible a lo tangible.
+
+el proceso no es una representación, es un proyecto.
 
 Que en bonito vendría a ser, que tú y yo tenemos que ponernos de acuerdo en que diseño es diseño, para que exista.
 
-Quizás sin romper nada, expandimos la conversación más allá de un enfoque puramente instrumental que confunde diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
+Por otro lado, quizás sin romper nada, expandimos la conversación más allá de un enfoque puramente instrumental que confunde diseño con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
 
 #### El jaleo.
-Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, tampoco - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
+Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, me gusta más la nocion de pregunta - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
 
 Usamos la palabra diseño para referirnos a la forma producida.
 
@@ -34,7 +36,9 @@ Si, al menos, estamos de acuerdo en que el diseño existe porque tú y yo acorda
 
 Lo que pasa es que la 'cosa', por si misma, no es capaz de significarse sin hacer referencia a otros sistemas, que además nos son únicos al diseño. La forma, no es diseño.
 
-Los procesos por los que obtenemos la forma, son más amigos de optimizar que de generar, no estaría de más dejarlos un rato al margen. La producción forma parte del diseño, pero no es diseño.
+Los procesos por los que obtenemos la forma, son más amigos de optimizar que de generar, no estaría de más dejarlos un rato al margen. No se producen para zanjar un problema, sino que buscan refinar un sistema.
+
+ La producción forma parte del diseño, pero no es diseño.
 
 El acuerdo, ocurre simultáneamente en dos sistemas: lo mental y lo físico.
 
