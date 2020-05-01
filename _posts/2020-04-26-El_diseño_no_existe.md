@@ -23,7 +23,7 @@ Con suerte, en el camino rompemos con una tradición que confunde expresar con g
 
 
 #### El jaleo.
-Como el final es dónde cristaliza todo el horizonte problemático - no el de los diseñadores, el del diseño - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
+Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, tampoco - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
 
 Usamos la palabra diseño para referirnos a la forma producida.
 
