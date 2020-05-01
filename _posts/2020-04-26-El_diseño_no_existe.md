@@ -15,7 +15,7 @@ No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos, ni entr
 
 Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y que se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se pueden practicar de la misma manera.
 
-Dejando roles y títulos a un lado, que lo anterior ya me parece suficiente que masticar, a ver si desde aquí consigo hablar desde lo que es y no desde cómo se hace, sin necesidad de usar metáforas y sin prestarle mucha atención a algo que importa tan poco como el soporte,
+Dejando roles y títulos a un lado, que lo anterior ya me parece suficiente que masticar, a ver si desde aquí consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas y sin prestarle mucha atención al soporte.
 
 De ser posible, quizás pueda aproximarme al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que confunde diseño con la herramienta de toma de decisiones y separa el pensar del hacer.
 
