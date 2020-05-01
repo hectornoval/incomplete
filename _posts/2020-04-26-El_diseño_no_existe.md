@@ -15,11 +15,11 @@ No sé dónde quiero llegar pero me gusta la idea de hacerlo abierto, sin encarg
 
 Todo tiene que empezar por algún sitio. El mío es diferenciando diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
-Con una mirada abierta - o cerrada, según se mire - me parecen más interesantes los retos que plantea hablar de diseño desde lo que es y no de cómo se hace. Sin metáforas, de forma agnóstica al soporte; de lo intangible a lo tangible.
+Con una mirada abierta - o cerrada, según se mire - me parecen más interesantes los retos que plantea hablar de diseño desde lo que es y no de cómo se hace. Sin metáforas, de forma agnóstica al soporte. Bajar de lo intangible a lo tangible.
 
 A lo mejor, sin romper nada, expandimos la conversación más allá de un enfoque puramente instrumental que confunde la práctica con una herramienta de toma de decisiones y separa el pensar del hacer. No hay diseño hasta que se diseña.
 
-Aunque todo esto, dicen que queda más bonito resumiéndolo en un sencillo; tú y yo tenemos que ponernos de acuerdo en algo para que exista.
+Aunque todo esto, dicen que queda más bonito resumido en un sencillo: tú y yo tenemos que ponernos de acuerdo en algo para que exista.
 
 #### El jaleo.
 Como el final es dónde cristaliza todo el horizonte problemático - aunque problema, problema, me gusta más la nocion de pregunta - quizás todo empiece, o termine, con algo tan sencillo como usar una misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
