@@ -13,9 +13,9 @@ meta: "Meta"
 ### Restricciones.
 No sé dónde quiero llegar pero me gusta que sea abierto, sin encargos ni entregas. Solo por ver si las letras pueden *fijar* una idea que apenas pasa de composición a vuelapluma y, con suerte, orientarme y avanzar desde allí.
 
-Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - pero que se parecen tanto como un lápiz y un teclado. Sobre todo porque si no son lo mismo, tampoco se pueden practicar de la misma manera.
+Como todo tiene que empezar por algún sitio. El mío empieza diferenciando diseño y *explotación del diseño* - que tiene mucha chicha, que diría Natalia - y que se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se pueden practicar de la misma manera.
 
-Dejando a un lado el rol del diseño y las personas que diseñan, que ya me parece suficiente a masticar, a ver si desde aquí consigo hablar desde lo que es y no de cómo se hace, sin necesidad de usar metáforas. Si no existe, que más da el soporte,
+Dejando a un lado el rol del diseño y las personas que diseñan, que ya me parece suficiente a masticar, a ver si desde aquí consigo hablar desde lo que es y no desde cómo se hace, sin necesidad de usar metáforas. Si no es real, poco importa el soporte,
 
 De ser posible, quizás pueda aproximarme al diseño desde su estricta expresión, pasar de lo intangible a lo tangible y, con suerte, romper con una tradición que prioriza la herramienta de toma de decisiones y prioriza el pensar sobre el hacer.
 
