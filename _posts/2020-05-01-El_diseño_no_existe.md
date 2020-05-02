@@ -11,7 +11,7 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Lo uno.
-No sé dónde quiero llegar pero, pánicos a un lado, me gusta la idea de explorarlo en abierto, imcompleto, sin encargos ni entregas. Si las letras pueden *fijar* una idea que no pasa de intento de borrador quizas pueda romper alguna cosa, organizar otras o simplemente orientarme desde allí. Hay quien defiende que ya no pensamos en series, sino en versiones: v.2020-05-01 22:21:52 +7
+No sé dónde quiero llegar pero creo en la idea de explorarlo en abierto, imcompleto, sin encargos ni entregas. Si las letras pueden *fijar* una idea que no pasa de intento de borrador quizas pueda romper alguna cosa, organizar otras o simplemente orientarme desde allí. Hay quien defiende que ya no pensamos en series, sino en versiones: v.2020-05-01 22:21:52 +7
 
 Todo tiene que empezar por algún sitio. El mío circula siempre en la diferencia de diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
@@ -32,23 +32,21 @@ Usamos la palabra diseño para referirnos a la capacidad humana para significar 
 
 Si, al menos, estamos de acuerdo en que el diseño existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Estaríamos de acuerdo que, como mínimo, es cosa de dos.
 
-Con todas estas limitaciones.
+La 'cosa', ni es capaz de significarse ni, por supuesto, hablar de si misma - podéis preguntarle a Siri - sin hacer referencia al resto de unidades del sistema y a otros sistemas, que ni son únicos al diseño ni tenemos agencia para modificar. La cosa, forma parte del diseño pero no es diseño.
 
-La 'cosa', en si, ni es capaz de significarse ni, por supuesto, hablar de si misma - podéis preguntarle a Siri - sin hacer referencia al resto de unidades del sistema y, a su vez, a otros sistemas, que ni son únicos al diseño ni tenemos agencia para modificar. La cosa, forma parte del diseño pero no es diseño.
-
-Los procesos por los que obtenemos la cosa, no se buscan zanjar un problema sino refinar y optimizar otro sistema, el de producción. Aquí, como mucho, estamos componiendo patrones confundiendo customizar con diseñar. La producción forma parte del diseño, pero no es diseño.
+Los procesos por los que obtenemos la cosa, no buscan zanjar un problema; sino refinar y optimizar un sistema, el de producción. Aquí, como mucho, estamos componiendo patrones confundiendo customizar con diseñar. La producción forma parte del diseño, pero no es diseño.
 
 El acuerdo - y, sobre todo, el desacuerdo - de que 'esta cosa es diseño', para que exista, tiene que ocurrir simultáneamente en dos sistemas: lo mental y lo físico.
 
 En ninguno de los planos, el acuerdo puede existir hasta que 'la cosa' se produce. Un acuerdo sobre el resultado no puede pre-existir al resultado.
 
-Si fuera el caso y pensáramos que es antes, solo querría decir que ya estaría inscrito como una referencia más en nuestro sistema y entonces, no sería diseño sino copia. Todos copiamos.
+Si creemos que es anterioir, probablemente quiera decir que lo tenemos inscrito como una referencia más en nuestro sistema y entonces no es diseño, es copia. Todos copiamos.
 
-Y precisamente porque solo puede ocurrir sobre el resultado, cuando cristaliza. Es imposible que el objeto producido, que siempre ocurre en el futuro, sea diseño.
+Precisamente porque el acuerdo solo puede producirse sobre el resultado. Es imposible que el objeto producido, que siempre ocurre en el futuro, sea diseño.
 
-Si diseño no es el objeto, ni los procesos, ni los sistemas - y no es posible confirmar el acuerdo porque no existe -  o renunciamos al factor diferenciador por ser una facultad común a todos los humanos o hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
+Si diseño no es el objeto, ni los procesos, ni los sistemas. Bien renunciamos al factor diferenciador por ser una facultad común a todos, bien hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
 
-O quizás, si no podemos aplicarnos nuestra propia medicina, sea el momento de abandonar diseño.
+Si no podemos aplicarnos nuestra propia teoría, mejor dejar atrás diseño.
 
 
 ##### [⟵](/../../incomplete/index.html)
