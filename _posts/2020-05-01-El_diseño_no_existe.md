@@ -24,7 +24,7 @@ No hay diseño hasta que se diseña.
 Dicen que todo esto queda más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
 
 #### Lo otro.
-Los finales siempre cristalizan todo el horizonte problemático - aunque problema, problema... tampoco parece que estemos resolviendo, será cosa de la escala - por ir a lo sencillo, quizás todo empiece, o termine, en que usamos la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significancia~~
+Los finales siempre cristalizan todo el horizonte problemático - aunque problema, problema... Tampoco parece que estemos resolviendo, será cosa de la escala - por ir a lo sencillo, quizás todo empiece, o termine, en que usamos la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significación~~
 
 Usamos la palabra diseño para referirnos a la "forma" producida.
 
@@ -32,7 +32,7 @@ Usamos la palabra diseño para referirnos a los procesos que ponemos en marcha p
 
 Usamos la palabra diseño para referirnos a la capacidad humana para significar lo que nos rodea. Todos somos diseñadores.
 
-Si el diseño, sea lo que sea, existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Estaríamos de acuerdo que, como mínimo, es cosa de dos. Que no es mal comienzo, excepto para los artistas.
+Si el diseño, sea lo que sea, existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Estaríamos de acuerdo que, como mínimo, es cosa de dos. No es mal comienzo, excepto para los artistas.
 
 El jaleo empieza, porque la 'cosa', ni es capaz de significarse ni puede hablar de si misma - podéis preguntarle a Siri - y siempre necesita del resto de unidades del sistema y de otros sistemas para definirse. Sistemas que ni son únicos al diseño ni tenemos agencia para modificar. La cosa, forma parte del diseño pero no es diseño.
 
@@ -40,11 +40,11 @@ Los procesos por los que obtenemos la cosa no buscan zanjar un problema; sino re
 
 El acuerdo - y, sobre todo, el desacuerdo - de que 'esta cosa es diseño', para que exista, tiene que ocurrir simultáneamente en dos sistemas: lo mental y lo físico.
 
-La fácil se articula sobre el plano físico y el resultado. El acuerdo de que es diseño nunca puede existir hasta que 'la cosa' se produce. Por una mera cuestión temporal, ocurre en el futuro. Un acuerdo sobre el resultado nunca puede pre-existir al resultado. Así que dudo que se pueda hacer sobre el objeto que mal llamamos diseño.
+La fácil se articula sobre el plano físico y el resultado. El acuerdo de que es diseño nunca puede existir hasta que 'la cosa' se produce. Por una mera cuestión temporal, ocurre en el futuro. Un acuerdo sobre el resultado nunca puede pre-existir al resultado. Así que dudo que se pueda hacer sobre el objeto que tendemos a llamar diseño.
 
-Sobre el mental es más dificil de digerir, no por complicado, sino por lo que arrastra. Como dicen los que saben del signo, si existe - que es lo habitual - seguramente quiera decir que ya tenemos 'eso' que queremos diseñar inscrito como una referencia más en nuestro sistema y entonces no es diseño, es copia. Todos copiamos, así que no tiene que ser tan malo.
+Sobre el mental es más dificil de digerir, no por complicado, sino por lo que arrastra. Como dicen los que saben del signo. Si existe - que es lo habitual - quiere decir que ya tenemos 'eso' que queremos diseñar inscrito como una referencia en nuestro sistema y entonces no es diseño, es copia. Todos copiamos, así que no tiene que ser tan malo.
 
-En fin, si diseño no es el objeto al que llamamos diseño, ni los procesos a los que llamamos diseño, ni los sistemas de diseño son tal cosa. Bien renunciamos al factor diferenciador por ser una facultad común a todos, bien hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
+En fin, si diseño no es el objeto al que llamamos diseño, ni los procesos a los que llamamos diseño, ni los sistemas de diseño son tal cosa. Bien renunciamos al factor diferenciador del diseño por ser una facultad común a todos, bien hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
 
 Y si no podemos aplicarnos nuestra propia teoría, mejor dejarlo atrás.
 
