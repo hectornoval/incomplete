@@ -11,7 +11,7 @@ meta: "Meta"
 ## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
 
 ### Lo uno.
-No sé dónde quiero llegar, la idea de explorarlo en abierto, incompleto y sin encargos ni entregas, me parece demasiado interesante como para dejarla pasar. Si las letras consiguen *fijar* una idea que no pasa de intento de borrador quizás me sirva para organizar otras y orientarme desde allí. A lo mejor es verdad que ya no pensamos en series, sino en versiones. v.2020-05-01 22:21:52 +7
+No sé dónde quiero llegar, la idea de explorarlo en abierto, incompleto y sin encargos ni entregas, me parece demasiado interesante como para dejarla pasar. Si las letras consiguen *fijar* una idea que no pasa de intento de borrador quizás me sirva para organizar otras y orientarme desde allí. Por si es verdad que ya no pensamos en series, sino en versiones: v.2020-05-01 22:21:52 +7
 
 Si todo tiene que empezar por algún sitio, el mío circula en la diferencia de diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
 
