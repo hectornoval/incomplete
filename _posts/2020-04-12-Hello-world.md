@@ -8,6 +8,6 @@ author:
 meta: "Test"
 ---
 ## This is not:
-Your ideas, a dogma, a theory, a model, something to follow, something true, neither false, a trends.
+Your ideas, a dogma, a theory, a model, something to follow, something true, neither false.
 
-This is... just an experiment.
+Let's see.
