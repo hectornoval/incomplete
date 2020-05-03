@@ -21,7 +21,7 @@ Con una mirada abierta - o cerrada, según se mire - me parecen más interesante
 Creo que es necesario, más que nunca, expandir la conversación y alejarnos de un enfoque puramente instrumental que confunde el pensar con el hacer y la práctica con una herramienta de toma de decisiones.
 No hay diseño hasta que se diseña.
 
-Aunque también cicen que todo es más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
+Aunque también dicen que todo es más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
 
 #### Lo otro.
 Los finales siempre cristalizan todo el horizonte problemático - aunque problema, problema... Tampoco parece que estemos resolviendo, será cosa de la escala - por ir a lo sencillo, quizás todo empiece, o termine, en que usamos la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significación~~
