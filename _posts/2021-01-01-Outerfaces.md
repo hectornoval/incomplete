@@ -8,12 +8,12 @@ categories: thoughts
 meta: "Meta"
 ---
 
-## Your role is no longer bound by the constraints of your physical hardware/body.
+## Your role is no longer bound by the constraints of your physical body.
 
 ### outerface
 /ˈaʊtəfeɪs/
 
-_noun_
+#### _noun_
 noun: **outerface**; plural noun: **outerfaces**
 
 1.    
@@ -29,7 +29,9 @@ noun: **outerface**; plural noun: **outerfaces**
     A device or program for detaching two items of hardware or software so that they can be operated separately or disconnect from each other.
     "an application program outerface"  
 
+#### _verb_
+verb: **outerface**; 3rd person present: **outerfaces**; past tense: **outerfaced**; past participle: **outerfaced**; gerund or present participle: **outerfacing**
 
-
+v.2021-01-08 21:00 +8
 
 ##### [⟵](/../../incomplete/index.html)
