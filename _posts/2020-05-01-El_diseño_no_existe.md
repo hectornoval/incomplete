@@ -18,10 +18,10 @@ Si todo tiene que empezar por algún sitio, el mío circula en la diferencia de 
 
 Con una mirada abierta - o cerrada, según se mire - me parecen más interesantes los caminos que se abren formulando el diseño desde lo que es y no desde el cómo se hace. Sin metáforas y agnóstico al soporte: bajar de lo intangible a lo tangible.
 
-Aunque sea para expandir la conversación más allá de un enfoque puramente instrumental que confunde el pensar con el hacer y la práctica con una herramienta de toma de decisiones.
+Creo que es necesario, más que nunca, expandir la conversación y alejarnos de un enfoque puramente instrumental que confunde el pensar con el hacer y la práctica con una herramienta de toma de decisiones.
 No hay diseño hasta que se diseña.
 
-Dicen que todo esto queda más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
+Aunque también dicen que todo es más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
 
 #### Lo otro.
 Los finales siempre cristalizan todo el horizonte problemático - aunque problema, problema... Tampoco parece que estemos resolviendo, será cosa de la escala - por ir a lo sencillo, quizás todo empiece, o termine, en que usamos la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significación~~
