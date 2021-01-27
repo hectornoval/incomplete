@@ -32,7 +32,6 @@ noun: **outerface**; plural noun: **outerfaces**
     A device or program for detaching two items of hardware or software so that they can be operated separately or disconnect from each other.
     "an application program outerface."  
 
-
 &nbsp;
 #### _verb_
 verb: **outerface**; 3rd person present: **outerfaces**; past tense: **outerfaced**; past participle: **outerfaced**; gerund or present participle: **outerfacing**
