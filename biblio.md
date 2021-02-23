@@ -31,11 +31,11 @@ HAN, Byung-Chul. *Müdigkeitsgesellschaft \ The burnout society,* trans. Erik Bu
 
 HARA, Kenya. *100 whites,* trans. Josh Trichilo. Zurich: Lars Müller publishers, 2019. ISBN 9783037785799
 
-ILLICH, Ivan. * Tools for conviviality \ La convivencialidad,* trans. Matea P. De Gossman. Barcelona: Virus editorial, 2011. ISBN-13: 9788492559350
+ILLICH, Ivan. *Tools for conviviality \ La convivencialidad,* trans. Matea P. De Gossman. Barcelona: Virus editorial, 2011. ISBN-13: 9788492559350
 
-ISHIGAMI, Junya. *Another scale of architecture, new edition.* Tokyo: Lixil, 2019. ISBN 9784864800433**
+ISHIGAMI, Junya. *Another scale of architecture, new edition.* Tokyo: Lixil, 2019. ISBN 9784864800433
 
-KUMA, Kengo; Associates. *スタディーズ・イン・オーガニック \ Studies in organic,* trans. English. \[5th ed.\]  Tokyo: Toto, 2018. ISBN 9784887063051**
+KUMA, Kengo; Associates. *スタディーズ・イン・オーガニック \ Studies in organic,* trans. English. \[5th ed.\]  Tokyo: Toto, 2018. ISBN 9784887063051
 
 NOORDZIJ, Gerrit. *De Streek: Theorie van het schrift \ El trazo: Teoría de la escritura,* trans. Carlos García Aranda. Valencia:  Campgrafic, 2019. ISBN 9788496657106
 
