@@ -27,7 +27,7 @@ HAN, Byung-Chul. *Müdigkeitsgesellschaft \ The burnout society,* trans. Erik Bu
 
 HARA, Kenya. *100 whites,* trans. Josh Trichilo. Zurich: Lars Müller publishers, 2019. ISBN 9783037785799
 
-ILLICH, Ivan. * Tools for conviviality \ La convivencialidad,* trans. Matea P. De Gossman. Barcelona: Virus editorial, 2011. ISBN-13: 9788492559350
+ILLICH, Ivan. *Tools for conviviality \ La convivencialidad,* trans. Matea P. De Gossman. Barcelona: Virus editorial, 2011. ISBN-13: 9788492559350
 
 ISHIGAMI, Junya. *Another scale of architecture, new edition.* Tokyo: Lixil, 2019. ISBN 9784864800433
 
@@ -36,6 +36,8 @@ KNAPP, Susan, et al. *Weingart: The man and the machine.* Basel: Karo graphic de
 KRUEGGER, Myron W. *Artificial reality II* \[2nd ed.\] Massachusets: Addison-Wesley, 1991. ISBN 0201522608
 
 KUMA, Kengo; Associates. *スタディーズ・イン・オーガニック \ Studies in organic,* trans. English. \[5th ed.\]  Tokyo: Toto, 2018. ISBN 9784887063051
+
+MOHOLO-NAGY, Lázsló. *Von material zu architekture \ La nueva visión,* trans. Brenda L. Kenny. \[5th ed.\] Buenos Aires: Infinito, 2018. ISBN 9789879393604
 
 NOORDZIJ, Gerrit. *De Streek: Theorie van het schrift \ El trazo: Teoría de la escritura,* trans. Carlos García Aranda. Valencia:  Campgrafic, 2019. ISBN 9788496657106
 
