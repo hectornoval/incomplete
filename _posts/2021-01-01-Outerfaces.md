@@ -17,7 +17,7 @@ meta: "Meta"
 noun: **outerface**; plural noun: **outerfaces**
 
 1.    
-    A point where two systems, subjects, organizations, etc. detach and disconnect from each other. ”the **outerface between** accountancy and the law."  
+    A point where two systems, subjects, organizations, etc. detach and disconnect from each other. ”the **outerface between** humans and machines."  
 
 2.	 
     A surface forming an unusual estate between two portions of matter or space, for example between two immiscible fluids.
