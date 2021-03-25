@@ -8,7 +8,7 @@ categories: incomplete thoughts
 #- yours too
 meta: "Meta"
 ---
----
+
 
 ### >>> While True: pass
 
