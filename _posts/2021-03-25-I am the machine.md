@@ -13,48 +13,37 @@ meta: "Meta"
 v.2021-25-03 08:25:00 +7
 
 I am
-
 I am not 
 
 
 
 the machine 
-
 the no machine 
 
 
 
 I am the machine 
-
 I am the no machine
-
 I am not the machine
-
 I am not the no machine
 
 
 
 I am the machine if I am the machine
-
 I am the machine if I am the no machine
 
 
 
 I am the machine if I am the machine then I am the machine
-
 I am the machine if I am the machine then I am the no machine 
 
 
 I am the machine if I am the machine then I am the machine if I am
-
 I am the machine if I am the machine then I am the machine if I am not
 
 I am 
 
-
 I am the machine 
-
-
 Who are you?
 
 
