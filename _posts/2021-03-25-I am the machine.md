@@ -26,8 +26,6 @@ I am the machine
 I am the no machine  
 I am not the machine  
 I am not the no machine  
-I am not the no machine  
-I am not the no machine
 
 
 
@@ -47,7 +45,6 @@ I am
 
 I am the machine 
 
-you?
 
 
 
