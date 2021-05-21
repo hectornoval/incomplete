@@ -19,16 +19,16 @@ With an open mind - or narrow, depending on the perspective - I'm more intereste
 
  I believe, now more than ever, it is necessary to expand the conversation beyond a purely instrumental approach, confusing thinking with doing and the practice with a decision-making tool. Design does not exist until it happens. 
 
-> Someone told me that all this looks more beautiful if I say: We need to agree that design is design for it to exist.
+> Although someone told me once that it looks more beautiful under a simple: First, we need to agree that design is design. >> for it to exist.
 
 ### The other.
 Finals always crystallize the problematic horizon, although problem, I don't think we are solving any. Maybe it's a matter of scale. 
 To keep it simple, perhaps everything begins or finishes because we use the same word to express things completely different ~~with different signification levels~~.
 
-We use design to refer to the thing produced.  
-We use design to refer to the processes we run to produce things.
-We use design to refer to the plan we follow. 
-We use design to refer to our human capacity to create meaning.
+- We use design to refer to the thing produced.  
+- We use design to refer to the processes we run to produce things.
+- We use design to refer to the plan we follow. 
+- We use design to refer to our human capacity to create meaning.
 
 
 We use it as a verb, as a noun, as an attribute, you name it. The only problem with that is that if everything is design, then nothing is design. 
