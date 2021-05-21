@@ -43,17 +43,17 @@ From here, the mess gets more interesting to me. The thing is never aware of its
 
 The process used to obtain that _thing_ does not attempt to solve any problem different than to refine and optimize another system: production. When we manage to do something here, we mainly compose with pre-existing patterns confusing customizing with design. Production might be part of design, but it's not design. 
 
-Before that, when there's not a clear path, most of the times, what we call the design process is, in reality, the scientific method — Great, but not design).
+Before that, when there's not a clear path, most of the times, what we call the design process is, in reality, the scientific method — Great, but not design.
 
 ### The outcome.
-The agreement - and, overall, the disagreement - that 'this thing we call design is design, needs to be happening in two systems simultaneously: the mental and the physical. And one can not be dettached from the other.
+The agreement - and, overall, the disagreement - for _this thing_ to be design, needs to happen simultaneously in two systems: the mental and the physical. And one can not be dettached from the other — design thinking without doing is just thinking, not design.
 
-Unfortunately, an agreement in the result can not pre-exist the result itself; the same way as consensus that something is designed can't pre-exist design.
-This might be just a merely temporal constraint; it happens in the future. Unless....  it already exists. But if it does - what occurs most of the times - plausibly means that we already have that _thing_ registered as a reference in our mental system. It'll be probably more accurate to state that we reproduce a copy of that reference — nothing to regret. 
+Unfortunately, an agreement on the result can not pre-exist the result itself; the same way, a consensus that something is designed can't pre-exist that something.
+Just a merely temporal constraint; the agreements happens in the future. Unless....  it already exists. But if it does - what occurs most of the times - plausibly means that we already have that _thing_ registered as a reference in our mental system and It'll be probably more accurate to state that we're reproducing a copy of that reference — nothing to regret. 
 
-In the end, if design is not that thing we call design, neither the processes, design systems are not such things, and most of the things we produce are a copy; and on top of it, we disagree on what it means. Either we drop the differentiator factor of design either we make a conscious exercise of signification from what we really do instead of what we produce. 
+In the end, if design is not that _thing_ we call design, neither the processes, design systems are not such things and most of the things we produce are a copy; plus, we disagree on what it means. Either we drop the differentiator factor of design either we make a conscious exercise of signification from what we really do instead of what we produce. 
 
-If we can not apply to ourselves our own theory, it might be better to leave it behind.
+And if we can not apply to ourselves our own theory, it might be better to leave it behind.
 
 
 ##### [⟵](/../../incomplete/index.html)
