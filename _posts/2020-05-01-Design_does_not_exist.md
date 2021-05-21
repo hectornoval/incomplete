@@ -19,9 +19,9 @@ With an open mind - or narrow, depending on the perspective - I'm more intereste
 
  I believe, now more than ever, it is necessary to expand the conversation beyond a purely instrumental approach, confusing thinking with doing and the practice with a decision-making tool. Design does not exist until it happens. 
 
-Although someone told me once that all this looks more beautiful under a simple: First, we need to agree that design is design for it to exist.
+> Although someone told me once that all this looks more beautiful under a simple: First, we need to agree that design is design for it to exist.
 
-#### The other.
+### The other.
 Finals always crystallize the problematic horizon, although problem, I don't think we are solving any. Maybe it's a matter of scale. 
 To keep it simple, perhaps everything begins or finishes because we use the same word to express things completely different ~~with different signification levels~~.
 
@@ -42,7 +42,7 @@ The process used to obtain the thing does not attempt to solve any problem. But 
 
 Before that, when there's not a clear path for production yet, most of the times, what we call the design process is, in reality, the scientific method (not design).
 
-#### The outcome.
+### The outcome.
 The agreement - and, overall, the disagreement - that 'this thing we call design is design, it needs to be happening in two systems simultaneously: the mental and the physical. 
 
 Unfortunately, an agreement in the result can not pre-exist the result itself. In the same way, consensus that something is designed can't pre-exist design.
