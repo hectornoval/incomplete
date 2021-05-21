@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El diseño no existe"
+title: "Design does not exist"
 categories: thoughts
 ##author:
 #- Your name here
@@ -8,45 +8,49 @@ categories: thoughts
 meta: "Meta"
 ---
 
-## Alguien dijo que si una palabra borra la diferencia entre lo que es y lo que nos imaginamos, quizás deberíamos abandonar la palabra.
+## Somebody stated that if a word erases the difference between what it is and what we imagine, we should abandon the term.
 
-### Lo uno.
-No sé dónde quiero llegar, pero la idea hacerlo en abierto, sin encargos ni entregas, me parece demasiado interesante como para no explorarla.
-Si las letras consiguen *fijar* una idea que no pasa de intento de borrador quizás me sirva para organizar otras y orientarme desde allí. Por si es verdad que ya no pensamos en series, sino en versiones: v.2020-05-01 22:21:52 +7
+### The one.
+I don't know where I am going, but the idea is too interesting to let it go unexplored. If letters can fix one idea that I can't even sketch, maybe I find a way to organize other thoughts and project myself from there. If it's true that we don't think in series, but in versions:  v.2020-05-01 22:21:52 +7
 
-Si todo tiene que empezar por algún sitio, el mío circula en la diferencia de diseño y explotación del diseño - que tiene mucha chicha, que dirían las vanguardias - pero se parecen tanto como un lápiz y una mina. Si no son lo mismo, tampoco se practican igual.
+Suppose everything needs to have a starting point; mine whirls in the distinction between design and exploiting design. They are as similar to each other as a pencil to a mine. If they are not the same, we can't practise them the same way.
 
-Con una mirada abierta - o cerrada, según se mire - me parecen más interesantes los caminos que se abren formulando el diseño desde lo que es y no desde el cómo se hace. Sin metáforas y agnóstico al soporte: bajar de lo intangible a lo tangible.
+With an open mind - or narrow, depending on the perspective - I'm more interested in the paths we open when formulating design from what it is instead of how we make it. Avoiding metaphors and agnostic to the point of view: Our human capacity to relate things and meaning.
 
-Creo que es necesario, más que nunca, expandir la conversación y alejarnos de un enfoque puramente instrumental que confunde el pensar con el hacer y la práctica con una herramienta de toma de decisiones.
-No hay diseño hasta que se diseña.
+ It is necessary to expand the conversation and leave behind a purely instrumental approach, confusing thinking with doing and the practice with a decision-making tool. Design does not exist until it happens. 
 
-Aunque también dicen que todo es más bonito resumido en un sencillo; tú y yo tenemos que ponernos de acuerdo en que diseño es diseño para que exista.
+Although someone told me once that it looks more beautiful under a simple: First, we need to agree that design is design for it to exist.
 
-#### Lo otro.
-Los finales siempre cristalizan todo el horizonte problemático - aunque problema, problema... Tampoco parece que estemos resolviendo, será cosa de la escala - por ir a lo sencillo, quizás todo empiece, o termine, en que usamos la misma palabra para referirnos a cosas que son diferentes. ~~con distintos niveles de significación~~
+#### The other.
+Finals always crystallize the problematic horizon, although problem, I don't think we are solving any. Maybe it's a matter of scale. 
+To keep it simple, perhaps everything begins or finishes because we use the same word to express things completely different ~~with different signification levels~~.
 
-Usamos la palabra diseño para referirnos a la "forma" producida.
+We use design to refer to the thing produced.  
+We use design to refer to the processes we run to produce things.
+We use design to refer to the plan we follow. 
+We use design to refer to our human capacity to create meaning.
 
-Usamos la palabra diseño para referirnos a los procesos que ponemos en marcha para producir nuevas formas.
 
-Usamos la palabra diseño para referirnos a la capacidad humana para significar lo que nos rodea. Todos somos diseñadores.
+We use it as a verb, as a noun, as an attribute, you name it. But if it's everything design, then nothing is design. 
+A design designed the design.
 
-Si el diseño, sea lo que sea, existe porque tú y yo acordamos que esta ‘cosa’ que hemos generado es diseño. Ya sea la 'cosa' tan pequeña como una equis o tan grande como un territorio. Estaríamos de acuerdo que, como mínimo, es cosa de dos. No es mal comienzo, excepto para los artistas.
+If design, whatever it is, exist because you and I agree that this 'thing' we've generated it's designed. Whether it's as tiny as an x or as big as a territory requires at least two. Which it's not a bad start, except for the artists.  
 
-El jaleo empieza, porque la 'cosa', ni es capaz de significarse ni puede hablar de si misma - podéis preguntarle a Siri - y siempre necesita del resto de unidades del sistema y de otros sistemas para definirse. Sistemas que ni son únicos al diseño ni tenemos agencia para modificar. La cosa, forma parte del diseño pero no es diseño.
+From here, the mess gets more interesting. The thing is never aware of itself - try asking Siri  - It needs the rest of the system and other systems to define itself. Those systems are not unique to design, neither we have agency on them. The thing makes part of design, but it's not design. 
 
-Los procesos por los que obtenemos la cosa no buscan zanjar un problema; sino refinar y optimizar un sistema, el de producción. Asi que aquí, como mucho, estamos componiendo patrones y confundiendo customizar con diseñar. La producción forma parte del diseño, pero no es diseño.
+The process used to obtain the thing does not attempt to solve any problem but probably refine and optimize another system: production. When we manage to do something here, we mainly compose with pre-existing patterns and confusing customizing with design. Production is part of design, but it's not design. 
 
-El acuerdo - y, sobre todo, el desacuerdo - de que 'esta cosa es diseño', para que exista, tiene que ocurrir simultáneamente en dos sistemas: lo mental y lo físico.
+Before that, when there's not a clear path for production yet, most of the times, what we call the design process is, in reality, the scientific method (not design).
 
-La fácil se articula sobre el plano físico y el resultado. El acuerdo de que es diseño nunca puede existir hasta que 'la cosa' se produce. Por una mera cuestión temporal, ocurre en el futuro. Un acuerdo sobre el resultado nunca puede pre-existir al resultado. Así que dudo que se pueda hacer sobre el objeto que tendemos a llamar diseño.
+#### The outcome.
+The agreement - and, overall, the disagreement - that 'this thing we call design is design, it needs to be happening in two systems simultaneously: the mental and the physical. 
 
-Sobre el mental es más dificil de digerir, no por complicado, sino por lo que arrastra. Como dicen los que saben del signo. Si existe - que es lo habitual - quiere decir que ya tenemos 'eso' que queremos diseñar inscrito como una referencia en nuestro sistema y entonces no es diseño, es copia. Todos copiamos, así que no tiene que ser tan malo.
+Unfortunately, an agreement in the result can not pre-exist the result itself. In the same way, consensus that something is designed can't pre-exist design.
+It's a merely temporal constraint; it happens in the future. Unless....  it already exists. If it does - what occurs most of the times - plausibly means that we already have that 'thing' registered as a reference in our mental system. It'll be probably more accurate to state that we reproduce a copy —nothing to regret. 
 
-En fin, si diseño no es el objeto al que llamamos diseño, ni los procesos a los que llamamos diseño, ni los sistemas de diseño son tal cosa. Bien renunciamos al factor diferenciador del diseño por ser una facultad común a todos, bien hacemos un ejercicio de significación a partir de lo que hacemos y no de lo que producimos.
+In the end, if design is not that thing we call design, neither the processes, design systems are not such things; furthermore, we disagree on what it means. Either we drop the differentiator factor of design, and we embrace it as universal and common to all of us. Either we make a conscious exercise of signification from what we do instead of what we produce. 
 
-Y si no podemos aplicarnos nuestra propia teoría, mejor dejarlo atrás.
+And if we can not apply to ourselves our own theory, it's better to leave it behind.
 
 
 ##### [⟵](/../../incomplete/index.html)
