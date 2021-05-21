@@ -19,7 +19,8 @@ With an open mind - or narrow, depending on the perspective - I'm more intereste
 
  I believe, now more than ever, it is necessary to expand the conversation beyond a purely instrumental approach, confusing thinking with doing and the practice with a decision-making tool. Design does not exist until it happens. 
 
-> Although someone told me once that it looks more beautiful under a simple: First, we need to agree that design is design. >> for it to exist.
+> Although someone told me once that it looks more beautiful under a simple: First, we need to agree that design is design.  
+>> for it to exist.
 
 ### The other.
 Finals always crystallize the problematic horizon, although problem, I don't think we are solving any. Maybe it's a matter of scale. 
