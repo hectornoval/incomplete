@@ -10,7 +10,7 @@ permalink: /log/
 I am not a designer;  
 I practice my skills to relate units and structures that machines run to interact with humans.
 
-One day; 
+One day;   
 Maybe I manage to find a way to express all these incomplete thoughts through a simple sign. 
 
 Hopefully, meaning something to someone else. 
