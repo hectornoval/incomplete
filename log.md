@@ -7,8 +7,8 @@ permalink: /log/
 ---
 
 
-I am not a designer;  
-I practice my skills to relate units and structures that machines run to interact with humans.
+Today;  
+I work practicing my skills to relate units and structures that machines run to interact with humans.
 
 One day;   
 Maybe I manage to find a way to express all these thoughts through a simple sign.  
