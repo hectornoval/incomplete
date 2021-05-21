@@ -11,7 +11,7 @@ meta: "Meta"
 ## Somebody stated that if a word erases the difference between what it is and what we imagine, we should abandon the term.
 
 ### The one.
-I don't know where I am going, but the thought is too interesting to let it go unexplored. If letters manage to fix one idea that I can't even sketch, maybe I find a way to organize other thoughts and project myself from there. If it's true that we don't think in series, but versions: v.2020-05-01 22:21:52 +7
+I don't know where I am going, but the thought is too interesting to let it go unexplored. If letters manage to fix one idea that I can't even sketch, maybe I could find a way to organize other thoughts and project myself from there. If it's true that we don't think in series, but versions: v.2020-05-01 22:21:52 +7
 
 Suppose everything needs to have a starting point; mine circles in the distinction between design and exploiting design. They are as similar to each other as a pencil to a mine. If they are not the same, we can't practise them the same way.
 
