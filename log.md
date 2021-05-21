@@ -8,8 +8,7 @@ permalink: /log/
 
 
 
-I work practicing my skills to relate units and structures that machines run to interact with humans.
+I practice my skills to relate units and structures that machines run to interact with humans.
  
 Maybe one day I manage to find a way to express all these thoughts through a simple sign.  
-
 Hopefully, meaning something to someone else. 
