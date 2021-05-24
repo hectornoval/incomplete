@@ -7,7 +7,7 @@ permalink: /biblio/
 
 ALEXANDER, Christopher; NEIS, HansJoachim; ALEXANDER, Maggie Moore. *The battle for the life and beauty of the earth: A struggle between two world-systems.* New York: Oxford University press, 2012. ISBN 9780199898077
 
-ABELSON, Harold; SUSSMAN, Gerald Jay; SUSSMAN, Julie. *Structure and Interpretation of Computer Programs.* Cambridge: MIT Press ,1996 ISBN 9780262011532
+ABELSON, Harold; SUSSMAN, Gerald Jay; SUSSMAN, Julie. *Structure and Interpretation of Computer Programs.* Cambridge: MIT Press ,1996. ISBN 9780262011532
 
 BODEI, Remo. *Le forme del bello,* trans. Juan Díaz de Atauri. \[2nd ed., Spanish\]  Madrid: Machado Libros, 2008. ISBN 9788477745914
 
