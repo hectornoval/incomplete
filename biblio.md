@@ -7,13 +7,17 @@ permalink: /biblio/
 
 ALEXANDER, Christopher; NEIS, HansJoachim; ALEXANDER, Maggie Moore. *The battle for the life and beauty of the earth: A struggle between two world-systems.* New York: Oxford University press, 2012. ISBN 9780199898077
 
+ABELSON, Harold; SUSSMAN, Gerald Jay; SUSSMAN, Julie. *Structure and Interpretation of Computer Programs.* Cambridge: MIT Press ,1996 ISBN 9780262011532
+
 BODEI, Remo. *Le forme del bello,* trans. Juan Díaz de Atauri. \[2nd ed., Spanish\]  Madrid: Machado Libros, 2008. ISBN 9788477745914
 
 BRYNJOLFSSON, Erik. *Race against the machine.* Massachusets: Digital frontier press, 2012. ISBN 9780984725113
 
 DEMETRIOS, Eames; HARTMAN, Carla. *Essential Eames: words and pictures.* Weil am Rhein: Vitra design museum, 2017. ISBN 9783945852170
 
-DUNNE, Anthony; RABY Fiona. *Speculative everything: design, fiction and social dreaming.* Cambridge: MIT Press ,2013. ISBN 978026201984
+DUNNE, Anthony; RABY Fiona. *Speculative everything: design, fiction and social dreaming.* Cambridge: MIT Press, 2013. ISBN 978026201984
+
+FEYERABEDN, Paul. *Against Method.* London: Verso, 2010.  ISBN 1844674428
 
 FREDERICK, Mathiew. *One hundred one things I learned in Architecture School.* Cambridge: MIT Press, 2007. ISBN 9780262062664
 
