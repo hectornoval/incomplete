@@ -13,12 +13,7 @@ v.2021-03-06 19:35:00 +7
 
 
 
-
- There are many questions out there, but the answers can be framed in any theory. Of all these questions, the two that play the most crucial role are:
-
-    (1) What is design?
-    (2) Why does it have the properties it has?
-    
+_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical needs.[4]_
 
 
 
@@ -66,11 +61,15 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 
 
 
+ There are many questions out there, but the answers can be framed in any theory. Of all these questions, the two that play the most crucial role are:
+
+    (1) What is design?
+    (2) Why does it have the properties it has?
+    
+
 
 *This is raw & incomplete. Chomsky's line of inquiry [here](https://mitpress.mit.edu/books/minimalist-program)*
 
-
-_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical (phonological) needs.[4]_
 
 
 
