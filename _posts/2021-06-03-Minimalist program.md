@@ -9,11 +9,11 @@ meta: "Raw"
 ---
 
 ### Context free 
-v.2021-03-06 19:35:00 [1]  
+v.2021-03-06 19:35:00 ^[1]  
 
 
 
-_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical needs.[2]_  
+_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical needs. ^[2]_  
 
 <br/>
 <br/>
