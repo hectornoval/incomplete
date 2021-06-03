@@ -40,7 +40,7 @@ v.2021-03-06 19:35:00 +7
 <script>
 var config = {
     startOnLoad:true,
-    theme: 'neutral',
+    theme: 'default',
     flowchart:{
             useMaxWidth:false,
             htmlLabels:true
