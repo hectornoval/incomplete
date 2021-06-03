@@ -8,16 +8,15 @@ categories: incomplete thoughts
 meta: "Meta"
 ---
 
-<!DOCTYPE html>
+### Context free design program
+v.2021-03-06 19:35:00 +7
+
 <html lang="en">
    <head>
 	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
     </head>
 	 
 <body>
- <pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
 
 <div class="mermaid">graph LR
 A--&gt;B
