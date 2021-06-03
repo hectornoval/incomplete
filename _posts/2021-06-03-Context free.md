@@ -12,40 +12,35 @@ meta: "Meta"
 v.2021-03-06 19:35:00 +7
 
 <html lang="en">
-   <head>
-	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-    </head>
+ <head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+</head>
 	 
 <body>
-
-<div class="mermaid">graph TD
-S --> NP
+ <div class="mermaid">graph TD
+ S --> NP
 	NP --> D
 		D --> The
-	NP --> N
+ 	NP --> N
 		N --> designer
-	
-S --> VP
+ S --> VP
 	VP --> V
 		V --> Aux
 			Aux --> will
 		V --> v
 			v --> design
 	VP --> NP'
-
-
-NP' --> D'
-	D' --> the 
-NP' --> N'
-	N' --> design.
+		NP' --> D'
+			D' --> the 
+		NP' --> N'
+			N' --> design.
 
 </div>
-	
 </body>
 <script>
 var config = {
     startOnLoad:true,
-    theme: 'minimal',
+    theme: 'neutral',
     flowchart:{
             useMaxWidth:false,
             htmlLabels:true
