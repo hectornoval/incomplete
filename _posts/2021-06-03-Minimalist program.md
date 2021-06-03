@@ -13,7 +13,7 @@ v.2021-03-06 19:35:00 +7
 
 
 
-_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical needs.[4]_  
+_[...] The minimalist program works on the assumption that universal grammar constitutes a perfect design in the sense that it contains only what is necessary to meet humans' conceptual and physical needs.[1]_  
 
 <br/>
 <br/>
@@ -70,8 +70,7 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 <br/>
 <br/>
 
-*This is raw & incomplete. Chomsky's line of inquiry [here](https://mitpress.mit.edu/books/minimalist-program)*  
-
+* [1]: This is raw & incomplete. Chomsky's line of inquiry [here](https://mitpress.mit.edu/books/minimalist-program)*  
 
 
 
