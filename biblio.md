@@ -7,13 +7,13 @@ permalink: /biblio/
 
 ALEXANDER, Christopher; NEIS, HansJoachim; ALEXANDER, Maggie Moore. *The battle for the life and beauty of the earth: A struggle between two world-systems.* New York: Oxford University press, 2012. 
 
-ALEXANDER,Christopher. *Notes on the Synthesis of Form*. 17. printing, Harvard Univ. Press, 2002.
+ALEXANDER,Christopher. *Notes on the Synthesis of Form*. 17. printing. Cambridge: Harvard Univ. Press, 2002.
 
 ABELSON, Harold; SUSSMAN, Gerald Jay; SUSSMAN, Julie. *Structure and Interpretation of Computer Programs.* Cambridge: MIT Press ,1996.
 
 BEYER, Hugh, and Karen Holtzblatt. *Contextual Design: Defining Customer-Centered Systems.* Morgan Kaufmann, 1998.
 
-BIANCHINI, Samuel, et al., editors. *Practicable: From Participation to Interaction in Contemporary Art.* The MIT Press, 2016.
+BIANCHINI, Samuel, et al., editors. *Practicable: From Participation to Interaction in Contemporary Art.* Cambridge: MIT Press , 2016.
 
 BODEI, Remo. *Le forme del bello,* trans. Juan Díaz de Atauri. \[2nd ed., Spanish\]  Madrid: Machado Libros, 2008. 
 
