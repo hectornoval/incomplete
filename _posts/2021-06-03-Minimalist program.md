@@ -64,8 +64,10 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 
  There are many questions out there, but the answers can be framed in any theory. Of all these questions, the two that play the most crucial role are:  
 
-    (1) What is design?
-    (2) Why does it have the properties it has?  
+    (1) Who is the designer?
+    (2) What is the meaning of design? 
+    (3) What´s the behaviour determined?
+    
     
 <br/>
 <br/>
