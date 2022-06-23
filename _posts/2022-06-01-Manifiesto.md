@@ -12,17 +12,16 @@ meta: "Raw"
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
-In the meantime, we keep crossing boundaries beyond where it'll be very complicated to recover. Most of us will lack the tools to thrive in the divergent directions we are constructing.
+We keep crossing boundaries threatening the stability of the entire system. Risking crossing a treshold beyond which we risk entering a state we haven't experience in our entire existence. Crossing these boundaries not only increases the risk of generating irreversible changes. Most of us will lack the tools to thrive in the divergent directions we are constructing.
 
-> I am not privileged enough to access the forefront of knowledge, but I can sense certain things are not working. 
+#### To start something, we need a starting point.
+I am not privileged enough to access the forefront of knowledge, but I can sense certain things are not working. 
 
-
-#### We design cultures.
 The cultures we generate are full of blind spots —making it a challenging context to connect actions. If I can't interact, I can't make sense of it. If we can't make sense of it, it's impossible to use our natural ability to shape the world through relation and collaboration.
 
 In other words, in such a complex scenario, it's impossible to propose alternative courses of action. Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. 
 
-If we want to act differently, we must review our intentions and change our conversations  —language is the technology we use for that. 
+> If we want to act differently, we must review our intentions and change our conversations  —language is the technology we use for that. 
 
 Suppose we aim to be aware of how we live in these artificialities of our making. In that case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
 —Actions are what define us & not the words we use. Design, business, and technology are just words. 
@@ -63,7 +62,7 @@ This is all about goals & meanings and actions to be taken over time.
 
 I'll get somewhere. 
 
-Baclk
+### Ends here.
 
-### ◾:
-v.2022-06-23 18:09:00 +1
+
+##### [⟵](/../../incomplete/index.html)
