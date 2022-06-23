@@ -8,16 +8,16 @@ categories: incomplete
 meta: "Raw"
 ---
 
-## In the past months, I've experienced the fragility of the systems we've been generating—lockdowns, meltdowns, breakdowns, financial collapses, gaps, social inequalities, geopolitical power shifts, and a large variety of interrelated crises. ##
+## In the past months, I've experienced the fragility of the systems we've been generating —lockdowns, meltdowns, breakdowns, financial collapses, gaps, social inequalities, geopolitical power shifts, and a large variety of interrelated crises. ##
 
-These realities result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
+What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
-While we keep crossing beyond boundaries from where it'll be very complicated to recover, I find myself lacking the tools to thrive in the divergent directions we are constructing.
+In the meantime, we keep crossing boundaries beyond where it'll be very complicated to recover. Most of us will lack the tools to thrive in the divergent directions we are constructing.
 
 > I am not privileged enough to access the forefront of knowledge, but I can sense certain things are not working. 
 
 
-#### To start something, we need a starting point.
+#### We design cultures.
 The cultures we generate are full of blind spots —making it a challenging context to connect actions. If I can't interact, I can't make sense of it. If we can't make sense of it, it's impossible to use our natural ability to shape the world through relation and collaboration.
 
 In other words, in such a complex scenario, it's impossible to propose alternative courses of action. Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. 
