@@ -17,7 +17,7 @@ As if these signals were insufficient, we keep crossing boundaries and threateni
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
 #### First, the frame.
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. Language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*.   
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. Language is the tool we use for that. *—If we aim to act differently, we must review our intentions and change our conversations*.   
 
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots.  
 
@@ -25,18 +25,18 @@ If we can't see things, we can't interact with them. If we can't interact, we ca
 
 What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
 
-Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. *—Design, business, and technology are just words*. 
+Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind *—Design, business, and technology are just words*. 
 
 > If we can frame meanings into words to have a conversation around them, we can also look beyond that frame and broaden our perspectives.  
 
 #### Then, we fill.
 All these realities are presented throughout our lives as timeless truths—conventions, practices, and traditions that are widely understood and standardized *—The exercise requires deep structural reforms, not more ideas.* 
 
-Aware my own limitations. I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the practice of the mainstream business of design and its product, which is the substrate that regulates my relationship with labour, has a social validity & defines and mediates my recognition.
+Aware of my own limitations. I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the practice of the mainstream business of design and its product, which is the substrate that regulates my relationship with labour, has a social validity & defines and mediates my recognition.
 
-And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards others more respectful to ourselves and the world we live.   
+And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards a proposal more respectful to ourselves and the world we live.   
 
-Because there are no signs ahead guiding the path forward and this territory is entirely new to me: I intend to use reality to guide/move the spread/extend of a thought I do not plan to formalize. A new reality that could lead us to establish a new sequence of thinking needed to draw a model capable of generating new constructs. A capability on which we would be able to rethink of a new profession. 
+Because there are no signs ahead guiding the path forward and this territory is entirely new to me: I intend to use reality to guide/move the spread/extend of a thought I do not plan to formalize. A set of conditions that could lead us to establish the sequences of thinking needed to draw a model capable of generating new constructs. A capability on which we would be able to rethink of a new profession. 
 
 > Reality is the sole outcome of design; there is no subject, no object and no problem to be solved. 
 
