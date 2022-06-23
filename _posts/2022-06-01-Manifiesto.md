@@ -14,10 +14,7 @@ What all these events have in common is that they result from deeply entrenched 
 
 As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system. Risking entering a state we haven't experienced in our whole existence. Dragged into a reality that has being constructed only by a few where most of us will lack the tools to thrive moving forward.
 
-### To start something, we need a starting point.
-I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
-
-The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
+I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
