@@ -36,7 +36,7 @@ Aware of my own limitations. I find myself scaling down complexity until I reach
 
 And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards a proposal more respectful to ourselves and the world we live.   
 
-Because there are no signs ahead guiding the path forward and this territory is entirely new to me: I intend to use reality to guide/move the spread/extend of a thought I do not plan to formalize. A set of conditions that could lead us to establish the sequences of thinking needed to draw a model capable of generating new constructs. A capability on which we would be able to rethink of the profession. 
+Because there are no signs ahead guiding the path forward, and this territory is entirely new to me: I intend to use reality to drive/move the spread/extend of a thought I do not plan to formalize. A batch of guiding conditions to describe alternative thinking sequences, taking us to draw a model capable of generating new constructs. A capability on which we would be able to rethink the profession.
 
 > Reality is the sole outcome of design; there is no subject, no object and no problem to be solved. 
 
