@@ -8,7 +8,7 @@ categories: incomplete
 meta: "Raw"
 ---
 
-## In the past months, I´ve experienced the fragility of the systems we've been generating —*lockdowns, meltdowns, breakdowns, financial collapses, gaps, social inequalities, geopolitical power shifts, and a large variety of interrelated crises*. ##
+## Everyday, we experience the fragility of the systems we've been generating —*lockdowns, meltdowns, breakdowns, financial collapses, gaps, social inequalities, geopolitical power shifts, and a large variety of interrelated crises*.##
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
