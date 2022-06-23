@@ -19,7 +19,7 @@ I am not privileged enough to access the forefront of knowledge, but I can defin
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
 #### First, we frame.
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations. 
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the technology we use for that. —If we want to act differently, we must review our intentions and change our conversations. 
 
 Suppose we aim to be aware of how we live in these artificialities of our making. In that case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
 *—Actions are what define us & not the words we use. Design, business, and technology are just words*. 
