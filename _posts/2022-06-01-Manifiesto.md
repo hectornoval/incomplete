@@ -16,18 +16,17 @@ As if these signals were insufficient, we keep crossing boundaries and threateni
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*.   
+
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working, The cultures we generate are full of blind spots.  
 
 If we can't see things, we can't interact with them. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action.     
-
-#### First, we frame.
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*. 
 
 Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. *—Design, business, and technology are just words*. 
 
 What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
 
-> If we can frame things to have a conversation around them, we can also look beyond that frame and broaden our perspectives.  
+> If we can frame meanings into words to have a conversation around them, we can also look beyond that frame and broaden our perspectives.  
 
 #### Then, we fill.
 All these realities are presented throughout our lives as timeless truths—conventions, practices, and traditions that are widely understood and standardized *—The exercise requires deep structural reforms, not more ideas.* 
