@@ -46,29 +46,27 @@ All the mindsets, approaches and methods surrounding the so-called discipline ca
 ### Moving forward:   
 **❏ I manifest: **  
 
-- I am part of a nested, real world, not looking at things from the outside. 
-- I am not alone; there are limits and boundaries I should not cross when pursuing my wellbeing.  
+- I am part of a nested, real-world, not looking at things from the outside. 
+- I am not alone; there are limits and boundaries I should not cross when pursuing my well-being.    
 - Regardless of circumstances, we should be all sitting here in identical conditions. 
 - As a living being, I am constantly self-producing. 
-- As a human The only thing I am by nature is incapable of doing things by myself.
+- As a human, the only thing I am by nature is incapable of doing things by myself.
 - I am here because somebody took care of me, I am in debt.   
 - Many people have protected, nurtured, guided and provided me with the bare necessities for survival before I could even think for myself or communicate.
 - They give me conditions, not ideas.  
-- That knowledge gave me the capacity to generate artificiality. 
-- I do it following the tradition, cultures and schools of thougth I've been educated about. I don't know what I don't know.
-- I use those skills to construct signs allowing me to acquire the necessary knowledge to mediate my relations with the environment.
-- My process is just mine and is as valid as the other 7,953,952,575 processes. 
+- The knowledge I treasure grants me the ability to generate artificiality. 
+- I do it following the traditions, cultures and schools of thought I've been educated and taught. I don't know what I don't know.
+- I use those skills to run processes allowing me to acquire the knowledge I need to mediate my relationship with the environment.
+- My process is just mine and is as valid as the other 8 billion processes. 
 - I can not think or express anything on behalf of anyone. 
 - Reality defines the subject and not the other way around. 
 
 **△: From here**
-I am sitting here because of the knowledge and expertise I treasure, the lifestyles I followed, the contexts I lived and the choices I made in the past. If the present is the result of the past, the future will be the result of now.
-
 I am exploring the unknowns to find paths and directions moving forward, expecting to uncover something allowing me to expand the frame I follow to facilitate and orient decision-making.
 
 This is all about goals & meanings and actions to be taken over time. 
 
-### I'll get somewhere. 
+### Maybe I'll get somewhere. 
 
 
 ##### [⟵](/../../incomplete/index.html)
