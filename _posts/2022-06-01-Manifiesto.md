@@ -8,18 +8,18 @@ categories: incomplete
 meta: "Raw"
 ---
 
-## Everyday, we experience the fragility of the systems we've been generating: *lockdowns, meltdowns, breakdowns, collapses, inequalities, shifts, and a large variety of interrelated crises*.
+## Every day, we experience the fragility of the systems we've been generating: *lockdowns, meltdowns, breakdowns, collapses, inequalities, shifts, and a large variety of interrelated crises*.
 
-What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
+All these events have in common that they result from deeply entrenched ways of being, knowing and doing. A tangible expression that our wellbeing is profoundly affected by the people and the world around us. 
 
-As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system. Risking entering a state we haven't experienced in our whole existence. Dragged into a reality that has being constructed only by a few where most of us will lack the tools to thrive moving forward.
+As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system, risking entering a state we haven't experienced in our whole existence. We are drawn into a reality constructed only by a few where most of us will lack the tools to thrive moving forward.
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-#### First, we frame.
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*.   
+#### First, the frame.
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. Language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*.   
 
-I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working, The cultures we generate are full of blind spots.  
+I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots.  
 
 If we can't see things, we can't interact with them. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action.     
 
@@ -32,7 +32,7 @@ Suppose we aim to be aware of how we live in these artificialities of our making
 #### Then, we fill.
 All these realities are presented throughout our lives as timeless truths—conventions, practices, and traditions that are widely understood and standardized *—The exercise requires deep structural reforms, not more ideas.* 
 
-Acknowledging my own limitations. I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the practice of the mainstream business of design, which is the substrate that regulates my relationship with labour and mediating my recognition. 
+Aware my own limitations. I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the practice of the mainstream business of design and its product, which is the substrate that regulates my relationship with labour, has a social validity & defines and mediates my recognition.
 
 And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards others more respectful to ourselves and the world we live.   
 
@@ -57,8 +57,7 @@ All the mindsets, approaches and methods surrounding the so-called discipline ca
 - The knowledge I treasure grants me the ability to generate artificiality. 
 - I do it following the traditions, cultures and schools of thought I've been educated and taught. I don't know what I don't know.
 - I use those skills to run processes allowing me to acquire the knowledge I need to mediate my relationship with the environment.
-- My process is just mine and is as valid as the other 8 billion processes. 
-- I can not think or express anything on behalf of anyone. 
+- I can not think or express anything on behalf of anyone else. 
 - Reality defines the subject and not the other way around. 
 
 **△: From here**
