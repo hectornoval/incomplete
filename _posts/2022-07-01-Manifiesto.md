@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Manifiesto"
+categories: incomplete
+##author:
+#- Madrid
+#- yours too
+meta: "Raw"
+---
+
+
 Manifiesto: ◾
 To start something, we need a starting point.
 
