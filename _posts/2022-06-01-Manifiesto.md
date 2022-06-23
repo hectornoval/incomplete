@@ -12,7 +12,7 @@ meta: "Raw"
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
-As if this signals were not enough, we keep crossing boundaries and threatening the entire system's stability. Risking crossing a threshold beyond which we could be entering a state we haven't experienced in our whole existence. A divergent direction constructed only by a few where most of us will lack the tools to thrive and move forward.
+As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system. Risking entering a state we haven't experienced in our whole existence. Dragged into a reality that has being constructed only by a few where most of us will lack the tools to thrive moving forward.
 
 #### To start something, we need a starting point.
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
