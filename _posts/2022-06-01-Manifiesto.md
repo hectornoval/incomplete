@@ -46,7 +46,7 @@ All the mindsets, approaches and methods surrounding the so-called discipline ca
 ### Moving forward:   
 **❏ I manifest: **  
 
-- I am part of a nested, real-world, not looking at things from the outside. 
+- I am part of a nested reality, there I am not looking at things from the outside. 
 - I am not alone; there are limits and boundaries I should not cross when pursuing my well-being.    
 - Regardless of circumstances, we should be all sitting here in identical conditions. 
 - As a living being, I am constantly self-producing. 
@@ -58,7 +58,7 @@ All the mindsets, approaches and methods surrounding the so-called discipline ca
 - I do it following the traditions, cultures and schools of thought I've been educated and taught. I don't know what I don't know.
 - I use those skills to run processes allowing me to acquire the knowledge I need to mediate my relationship with the environment.
 - I can not think or express anything on behalf of anyone else. 
-- Reality defines the subject and not the other way around. 
+- Context defines the shape and not the other way around. 
 
 **△: From here**
 I am exploring the unknowns to find paths and directions moving forward, expecting to uncover something allowing me to expand the frame I follow to facilitate and orient decision-making.
