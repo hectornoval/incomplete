@@ -12,16 +12,16 @@ meta: "Raw"
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
-No matter the signals, we keep crossing boundaries threatening the stability of the entire system. Risking crossing a treshold beyond which we could be entering a state we haven't experience in our entire existence. Most of us will lack the tools to thrive in the divergent directions we are constructing.
+No matter the signals, we keep crossing boundaries and threatening the stability of the entire system. Risking crossing a treshold beyond which we could be entering a state we haven't experience in our entire existence. Most of us will lack the tools to thrive in the divergent directions some are constructing.
 
 #### To start something, we need a starting point.
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
 
-The cultures we generate are full of blind spots —making it a challenging context to connect actions. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to use our natural ability to shape the world through relation and collaboration.
+The cultures we generate are full of blind spots —*a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
 
-In other words, in such a complex scenario, it's impossible to propose alternative courses of action. This is crucial, because achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. 
+> We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-> If we want to act differently, we must review our intentions and change our conversations. 
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations.   
 
 Suppose we aim to be aware of how we live in these artificialities of our making. In that case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
 —Actions are what define us & not the words we use. Design, business, and technology are just words. 
