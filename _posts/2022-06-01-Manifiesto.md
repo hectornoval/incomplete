@@ -14,16 +14,16 @@ What all these events have in common is that they result from deeply entrenched 
 
 As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system. Risking entering a state we haven't experienced in our whole existence. Dragged into a reality that has being constructed only by a few where most of us will lack the tools to thrive moving forward.
 
-#### To start something, we need a starting point.
+### To start something, we need a starting point.
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
 
-The cultures we generate are full of blind spots —*a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
+The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations.  
+#### First, we frame.
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations. 
 
-#### Systems of beliefs.
 Suppose we aim to be aware of how we live in these artificialities of our making. In that case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
 *—Actions are what define us & not the words we use. Design, business, and technology are just words*. 
 
