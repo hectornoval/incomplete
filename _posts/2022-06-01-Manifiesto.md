@@ -29,10 +29,10 @@ What matters more than the system of beliefs we choose to make sense of the jumb
 
 > If we can frame things to have a conversation around them, we can also look beyond that frame and broaden our perspectives.  
 
-#### I don't know what I don't know.
+#### Then, we fill.
 All these realities are presented throughout our lives as timeless truths—conventions, practices, and traditions that are widely understood and standardized *—The exercise requires deep structural reforms, not more ideas.* 
 
-Acknowledging my own limitations.I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the uses of the mainstream design practice, which is the substrate that regulates my relationship with labour and, in the end, my recognition.
+Acknowledging my own limitations.I find myself scaling down complexity until I reach a nested frame small enough to impact with my agency: The tradition, the disciplines, and the uses of the mainstream design practice, which is the substrate that regulates my relationship with labour and, in the end, my recognition. I don't know what I don't know.
 
 And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value by steering towards others more respectful to ourselves and the world we live.   
 
