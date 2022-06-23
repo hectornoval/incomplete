@@ -64,4 +64,6 @@ I can not think or express anything on behalf of anyone.
 This is all about goals & meanings and actions to be taken over time. 
 
 I'll get somewhere. 
+
+Baclk
  
