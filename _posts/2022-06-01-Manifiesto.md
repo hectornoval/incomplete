@@ -16,6 +16,7 @@ As if these signals were insufficient, we keep crossing boundaries and threateni
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
+#### First, we frame.
 Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the tool we use for that. *—If we want to act differently, we must review our intentions and change our conversations*.   
 
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working, The cultures we generate are full of blind spots.  
