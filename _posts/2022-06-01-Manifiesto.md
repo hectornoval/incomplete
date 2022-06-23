@@ -16,7 +16,9 @@ As if these signals were insufficient, we keep crossing boundaries and threateni
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
+I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
+
+The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
 
 
 #### First, we frame.
