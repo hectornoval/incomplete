@@ -8,7 +8,7 @@ categories: incomplete
 meta: "Raw"
 ---
 
-## Everyday, we experience the fragility of the systems we've been generating: *lockdowns, meltdowns, breakdowns, collapses, inequalities, shifts, and a large variety of interrelated crises*.##
+## Everyday, we experience the fragility of the systems we've been generating: *lockdowns, meltdowns, breakdowns, collapses, inequalities, shifts, and a large variety of interrelated crises*.
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
