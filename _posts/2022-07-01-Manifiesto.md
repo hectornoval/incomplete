@@ -47,11 +47,11 @@ My goal would be to uncover alternative paths to current linear models of exchan
 
 Hence, I manifest: 
 ❏ 
-Form follows context and not the other way around.
-The only thing I am by nature is incapable of doing things by myself. I am here because somebody took care of me. 
-Many people have protected, nurtured, guided and provided me with the bare necessities for survival before I could even think for myself or communicate. They gave me conditions, not ideas.
+Form follows context and not the other way around.  
+The only thing I am by nature is incapable of doing things by myself. I am here because somebody took care of me.   
+Many people have protected, nurtured, guided and provided me with the bare necessities for survival before I could even think for myself or communicate. They gave me conditions, not ideas.  
 I am not alone in this world; there are limits and boundaries I should not cross when pursuing my wellbeing. We should be sitting here in identical conditions. 
-I am in debt. 
+I am in debt.   
 ◯
 I am sitting here because of the knowledge and expertise I treasure, the lifestyles I followed, the contexts I lived and the choices I made in the past. If the present is the result of the past, the future will be the result of now.
 I am constantly self-producing. 
