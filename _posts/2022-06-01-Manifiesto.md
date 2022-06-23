@@ -12,7 +12,7 @@ meta: "Raw"
 
 What all these events have in common is that they result from deeply entrenched ways of being, knowing and doing. A tangible probe that our wellbeing is profoundly affected by the people and the world around us. 
 
-No matter the signals, we keep crossing boundaries and threatening the stability of the entire system. Risking crossing a treshold beyond which we could be entering a state we haven't experience in our entire existence. Most of us will lack the tools to thrive in the divergent directions some are constructing.
+No matter the signals, we keep crossing boundaries and threatening the entire system's stability. Risking crossing a threshold beyond which we could be entering a state we haven't experienced in our whole existence. A divergent direction constructed only by a few where most of us will lack the tools to thrive and move forward.
 
 #### To start something, we need a starting point.
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
@@ -21,10 +21,11 @@ The cultures we generate are full of blind spots —*a challenging context to co
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations.   
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning  *—language is the technology we use for that*. If we want to act differently, we must review our intentions and change our conversations.  
 
+#### Systems of beliefs.
 Suppose we aim to be aware of how we live in these artificialities of our making. In that case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
-—Actions are what define us & not the words we use. Design, business, and technology are just words. 
+*—Actions are what define us & not the words we use. Design, business, and technology are just words*. 
 
 What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
 
