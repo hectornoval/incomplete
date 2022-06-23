@@ -16,14 +16,15 @@ As if these signals were insufficient, we keep crossing boundaries and threateni
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action. 
+I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working.   
+
+The cultures we generate are full of blind spots —*turning them into a challenging context to connect actions*. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action.   
 
 
 #### First, we frame.
 Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning, language is the method humanity use for that. *—If we want to act differently, we must review our intentions and change our conversations*. 
 
-Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. 
-*—Design, business, and technology are just words*. 
+Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how words construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind. *—Design, business, and technology are just words*. 
 
 What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
 
@@ -32,9 +33,9 @@ What matters more than the system of beliefs we choose to make sense of the jumb
 #### Then, we fill it.
 It's not an easy task; these realities are presented throughout our lives as timeless truths—conventions, practices, and traditions that are widely understood and standardized *—The exercise requires deep structural reforms, not more ideas.* 
 
-And here I am, facing a conjuncture that does not meet my goals and purposes, searching for a path I've never experienced, looking for a new set of conditions, and exploring alternative realities. 
-
 Acknowledging my limited agency, I'll scale down until a nested frame I have enough agency to impact with actions I am accountable for: The tradition, the disciplines, and the uses of the mainstream design discipline, which is the substrate that regulates my relationship with labour and recognition.
+
+And here I am, facing a conjuncture that does not meet my goals and purposes, searching for a path I've never experienced, looking for a new set of conditions, and exploring alternative realities. 
 
 Because there are no signs ahead guiding the path forward and this territory is entirely new to me: I intend to use reality to guide/move the spread/extend of a thought I do not plan to formalize. 
 
