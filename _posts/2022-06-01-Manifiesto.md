@@ -10,6 +10,8 @@ meta: "Raw"
 
 
 Manifiesto: ◾
+v.2022-06-23 18:09:00 +1
+
 To start something, we need a starting point.
 
 In the past months, I've experienced the fragility of the systems we've been generating—lockdowns, meltdowns, breakdowns, financial collapses, gaps, social inequalities, geopolitical power shifts, and a large variety of interrelated crises. 
@@ -45,9 +47,9 @@ Reality is the sole outcome of design; there is no subject, no object and no pro
 
 My goal would be to uncover alternative paths to current linear models of exchanging value by shifting towards models that are respectful to both ourselves and the world we live in. 
 
-Hence, I manifest: 
+Hence, I manifest:   
 ❏ 
-Form follows context and not the other way around.  
+Form follows context and not the other way around.    
 The only thing I am by nature is incapable of doing things by myself. I am here because somebody took care of me.   
 Many people have protected, nurtured, guided and provided me with the bare necessities for survival before I could even think for myself or communicate. They gave me conditions, not ideas.  
 I am not alone in this world; there are limits and boundaries I should not cross when pursuing my wellbeing. We should be sitting here in identical conditions. 
