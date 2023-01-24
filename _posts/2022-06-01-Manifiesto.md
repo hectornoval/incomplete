@@ -12,11 +12,11 @@ meta: "Raw"
 
 All these events have in common that they result from deeply entrenched ways of being, knowing and doing. A tangible expression that our wellbeing is profoundly affected by the people and the world around us. 
 
-As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system, risking entering a state we haven't experienced in our whole existence. We are drawn into a reality constructed only by a few where most of us will lack the tools to thrive moving forward.
+As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system we live in, risking entering a state we haven't experienced in our whole existence, drawning us into a reality constructed only by a few where most of us will lack the tools to thrive moving forward and deprived of our natural ability to shape the world through relation and collaboration.
 
 > We are being deprived of our natural ability to shape the world through relation and collaboration.
 
-#### First, the frame.
+#### First, we frame.
 Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. Language is the tool we use for that *—If we aim to act differently, we must review our intentions and change our conversations*.   
 
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots.  
@@ -34,9 +34,9 @@ All these realities are presented throughout our lives as timeless truths—conv
 
 Aware of my own limitations. I find myself scaling down complexity until I reach a nested frame small enough to impact within my agency: The tradition, the disciplines, and the practice of the mainstream business of design and its products, which is the substrate that regulates my relationship with labour, has a social validity & defines and mediates my recognition.
 
-And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered in my whole experience and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards a proposal more respectful to ourselves and the world we live.   
+And here I am, facing a conjuncture that does not meet my goals and purposes. Entering a state I've never encountered before and looking for conditions that could take me to explore an alternative path to current linear models of exchanging value, steering towards a proposal more respectful to myself and the world I live in.   
 
-Because there are no signs ahead guiding the path forward, and this territory is entirely new to me: I intend to use reality to drive/move the spread/extend of a thought I do not plan to formalize. A batch of guiding conditions to describe alternative thinking sequences, taking us to draw a model capable of generating new constructs. A capability on which we would be able to rethink the profession.
+Because there are no signs ahead guiding the path forward, and this territory is entirely new to me: I intend to use reality to drive/move the spread/extend of a thought I do not plan to formalize. A batch of guiding conditions to describe alternative thinking sequences, taking me to draw a model capable of generating new constructs. A capability on which we would be able to rethink how I approach the profession.
 
 > Reality is the sole outcome of design; there is no subject, no object and no problem to be solved. 
 
