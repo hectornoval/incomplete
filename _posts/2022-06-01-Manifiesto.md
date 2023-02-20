@@ -10,22 +10,23 @@ meta: "Raw"
 
 ## Every day, we experience the fragility of the systems we've been generating: *lockdowns, meltdowns, breakdowns, collapses, inequalities, shifts, and a large variety of interrelated crises*.
 
-All these events have in common that they result from deeply entrenched ways of being, knowing and doing. A tangible expression that our wellbeing is profoundly affected by the people and the world around us. 
+As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system we live in, risking entering a state we haven't experienced before, drawning us into a reality constructed only by a few where most of us will lack the tools to thrive moving forward.
 
-As if these signals were insufficient, we keep crossing boundaries and threatening the fragile stability of the entire system we live in, risking entering a state we haven't experienced in our whole existence, drawning us into a reality constructed only by a few where most of us will lack the tools to thrive moving forward and deprived of our natural ability to shape the world through relation and collaboration.
+All these situations have in common that they result from deeply entrenched ways of being, knowing and doing. A tangible expression that our wellbeing is profoundly affected by the people and the world around us. 
 
-> We are being deprived of our natural ability to shape the world through relation and collaboration.
+Language is the tool we use to shape the world through relation and collaboration. *—If we aim to act differently, we must review our intentions and change our conversations*. 
 
 #### First, we frame.
-Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. Language is the tool we use for that *—If we aim to act differently, we must review our intentions and change our conversations*.   
+
+Achieving a good, beneficial, durable and pleasant life is not only a matter of individual performance; it is all about collectively constructed meaning. 
 
 I am not privileged enough to access the forefront of knowledge, but I can definitely sense certain things are not working. The cultures we generate are full of blind spots.  
 
 If we can't see things, we can't interact with them. If we can't interact, we can't make sense of it. If we can't make sense of it, it's impossible to propose alternative courses of action.     
 
-What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
-
 Suppose we aim to be aware of how we live in these artificialities of our making. If that's the case, we need to add a sharper consciousness of how language construct us: once we frame a complexity within the boundaries of a recognizable word, we cannot see beyond it, nor what is left behind *—Design, business, and technology are just words*. 
+
+What matters more than the system of beliefs we choose to make sense of the jumble of experiences we call life is to realize that we have one; only then will we have the power to challenge, question & change it.
 
 > If we can frame meanings into words to have a conversation around them, we can also look beyond that frame and broaden our perspectives.  
 
