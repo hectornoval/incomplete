@@ -8,11 +8,11 @@ permalink: /log/
 
 For the past 45 years, my life has been in a constant state of evolution. So does the world I got to know and everyone else's life around me. 
 
-In this process of acquiring knowledge to deal with uncertainty some people call maturing, I've learned that my wellbeing is profoundly affected by the people and the world around us. 
+In this process of acquiring knowledge to deal with uncertainty some people call growth, I've learned that my wellbeing is profoundly affected by the people and the world around us. 
 
-Like everyone else, I can also experience the fragility of the systems we've been generating —a vast amount of intended and unintended impact due to scattered ways of approaching the world and its outcome: the conditions I live in keep changing, arising situations putting new forms of pressure on my wellbeing and the socioeconomic model sustaining it. 
+Like everyone else, I can also experience the fragility of the systems we've been generating —a vast amount of intended and unintended impact due to scattered ways of approaching the world. Its outcome: the conditions I live in keep changing, arising situations putting new forms of pressure on my wellbeing and the socioeconomic model sustaining it. 
 
-Unfortunately, only some have access to the forefront of knowledge, and only some have the privilege (mental space, time, tools, network, personal wealth, and financial support) to change things. Despite that, like everyone else, when I find myself in a situation where I have needs that do not enable me to achieve my goals… I design. 
+Unfortunately, only some have access to the forefront of knowledge, and only few have the privilege (mental space, time, tools, network, personal wealth, or financial support) to change things. Despite that, like everyone else, when I find myself in a situation where I have needs that do not enable me to achieve my goals… I design. 
 
 Setting the foundations from below or defining the rules of governance from above, I practice my skills modelling conditions where humans interact with systems to achieve goals. 
 
