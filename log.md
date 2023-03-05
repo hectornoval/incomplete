@@ -6,7 +6,7 @@ permalink: /log/
 
 ---
 
-For the past 45 years, my life has been in a constant state of evolution. So does the world I got to know and everyone else's life. 
+For the past 45 years, my life has been in a constant state of evolution. So does the world I got to know and everyone else's life around me. 
 
 In this process of acquiring knowledge some people call maturing, I've learned and experienced many things. Overall, that our wellbeing is profoundly affected by the people and the world around us. 
 
