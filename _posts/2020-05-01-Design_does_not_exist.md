@@ -37,7 +37,7 @@ To keep it simple, perhaps everything begins or finishes because we use the same
 We use it as a verb, as a noun, as an attribute, you name it. But if everything is design, then nothing is design. 
 _Design designed the design._
 
-Good thing is that, whatever it is, it exists because you and I agree that this '_thing_' we've generated it's designed. Whether it's as tiny as an x or as big as a territory it requires at least two. Which it's not a bad start, except for the artists. Design is not art. 
+Good thing is that, whatever it is, it exists because you and I agree that this '_thing_' we've generated it's ~~designed~~ the result of a process we did together. Whether it's as tiny as an x or as big as a territory it requires at least two. Which it's not a bad start, except for the artists. Design is not art. 
 
 From here, the mess gets more interesting to me. The _thing_ is never aware of itself - try asking Siri  - It needs the rest of the units of the system and other systems to be able to be defined. These systems are not unique to design, nor do we have any agency on them. Then, the _thing_ is part of design, but it's not design. 
 
@@ -45,10 +45,11 @@ The process used to obtain that _thing_ does not attempt to solve any problem di
 
 Before that, when there's not a clear path, most of the times, the process we call design is just a vague interpretation of the scientific method — Great, but not design. Designers are not scientist.
 
-### The outcome.
-The agreement - and, overall, the disagreement - for _this thing_ to be design, needs to happen simultaneously in two systems: the mental and the physical. And one can not be dettached from the other — design thinking without doing is just thinking, not design.
+### The ~~end~~ begining.
+The agreement - the disagreement - for _this thing_ to be design, needs to happen simultaneously in two systems: the mental and the physical. And one can not be dettached from the other — design thinking without doing is just thinking, not design.
 
 Unfortunately, an agreement on the result can not pre-exist the result itself; similarly, a consensus that something is designed can't pre-exist that something.
+
 Just a purely temporal constraint; the agreements happens in the future. Unless....  it already exists. But if it does - which is most often the case - it plausibly means that we already have that _thing_ registered as a reference in our mental system and It will probably be more accurate to state that we are reproducing a copy of that reference — nothing to regret. 
 
 In the end, design is not that _thing_ we call design, neither the processes, design systems are not such things and most of the things we produce are a copy; plus, we disagree on what the words means. Either we drop the differentiating factor of design either we make a conscious exercise of signifying what we really do rather than what we produce. 
