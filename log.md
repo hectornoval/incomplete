@@ -6,7 +6,7 @@ permalink: /log/
 
 ---
 
-Madrid, Spain
+Madrid, Spain.  
 March 2023 
 
 Like most people, I come to this looking for opportunities to thrive.
@@ -25,5 +25,5 @@ Whether it is laying the groundwork or defining the rules of governance. like an
 
 I believe this can work. 
 
-Sincerely yours.
+Sincerely yours.  
 Héctor Noval 
