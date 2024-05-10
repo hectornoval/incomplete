@@ -6,7 +6,7 @@ permalink: /log/
 
 ---
 
-Madrid, Spain 
+Madrid, Spain
 March 2023 
 
 Like most people, I come to this looking for opportunities to thrive.
