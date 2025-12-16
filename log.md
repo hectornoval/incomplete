@@ -19,11 +19,11 @@ Regardless of where I have practised, the most valuable learning I treasure is t
 
 Like most people, I also experience the fragility of the systems that others generate and the enormous amount of intended and unintended impacts due to scattered ways of approaching the world. These conditions continue causing undesired situations and exert new forms of pressure on my well-being and the socioeconomic model that sustains it.
 
-Like everyone else, when I find myself in a situation where my needs do not allow me to achieve my goals, I design.
+Like everyone else: when I find myself in a situation where my needs do not allow me to achieve my goals, I design.
 
-Whether it is laying the groundwork or defining the rules of governance. like any other living being, I practice my skills by modelling the structures I use to interact with the environment. I do it to achieve goals, exchanging value in conversation with others. 
+Whether it is laying the groundwork or defining the rules of governance. Like any other living being, I practice my skills by modelling the structures I use to interact with the environment. I do it to achieve goals, exchanging value in conversation with others. 
 
-I believe this can work. 
+— I believe this can work. 
 
-Sincerely yours.  
+Sincerely yours,  
 Héctor Noval 
